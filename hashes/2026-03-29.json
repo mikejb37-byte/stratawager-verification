@@ -1,7 +1,7 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T16:32:22.241169-04:00",
-  "pick_count": 14,
+  "generated_at": "2026-03-29T17:01:36.688635-04:00",
+  "pick_count": 12,
   "picks": [
     {
       "id": 743,
@@ -52,14 +52,6 @@
       "created_at": "2026-03-29 11:40:16"
     },
     {
-      "id": 757,
-      "hash": "adc78930d5bf1ec22cfc3c13d9509db5af2068b534e5cf585b44bed01e56cc10",
-      "league": "NBA",
-      "market_type": "player_prop",
-      "pick_text": "Davion Mitchell Under 5.5 Assists",
-      "created_at": "2026-03-29 13:01:44"
-    },
-    {
       "id": 758,
       "hash": "1c61ca20ad03e4d67b6e6088f8bdc83b76076e0a716f9236eef6e7268fd86ffa",
       "league": "NBA",
@@ -74,14 +66,6 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Nikola Jokic Over 12.5 Rebounds + Jalen Brunson Under 2.5 Rebounds",
       "created_at": "2026-03-29 13:01:52"
-    },
-    {
-      "id": 763,
-      "hash": "753edbb8101661209af0513e477177729df3494431f588c2bc7413cdb8fd751d",
-      "league": "NBA",
-      "market_type": "player_prop",
-      "pick_text": "Robert Williams Over 8.5 Points",
-      "created_at": "2026-03-29 13:31:28"
     },
     {
       "id": 764,
