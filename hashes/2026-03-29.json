@@ -1,0 +1,303 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T13:14:04.483587-04:00",
+  "pick_count": 37,
+  "picks": [
+    {
+      "id": 741,
+      "hash": "4b29593a5a90b7b09a85d8ad2a2482f9c5412be2cb665e1a056c1fc5414ee619",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Miami Heat -9.0",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 742,
+      "hash": "821ce529ffe5bb8911a4fbcd966c0ee46628b21ea776b822717a396866b6b565",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Atlanta Braves -146",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 743,
+      "hash": "1d4cd9e591103b06549d231aa44b74c30aa14d490a1af27078652326d88c6544",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Tampa Bay Rays -1.5",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 744,
+      "hash": "28d26e0164580d0be8e8a201e3f5446a1094f481c2eaff6aa21a09ca8563257b",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Cincinnati Reds +120",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 745,
+      "hash": "29a22fc024266a029ee63189cca9193088620c643c0e5dd64d10d7225e1c86f5",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Tampa Bay Lightning +1.5",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 746,
+      "hash": "35e3078f8ecae0c14dfc3fd1409dec26c1ef61e37c87c91c0af381969d2ac55f",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-03-29 11:31:19"
+    },
+    {
+      "id": 747,
+      "hash": "67c54bc171d0684e93dbd63f6f490707549e148da22d4ceb7f99cd919310dbf4",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Derrick Jones Under 3.5 Rebounds",
+      "created_at": "2026-03-29 11:40:08"
+    },
+    {
+      "id": 748,
+      "hash": "28f2566c5962700bd960b039b290e65aafe426195fed1bd828a7faa3111cd2f8",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jalen Brunson Under 2.5 Rebounds",
+      "created_at": "2026-03-29 11:40:08"
+    },
+    {
+      "id": 749,
+      "hash": "e8cad6d6016211be56ce67f40a210dbacd56157d6c39666867bc9f8513fc54ac",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ajay Mitchell Under 2.5 Rebounds",
+      "created_at": "2026-03-29 11:40:08"
+    },
+    {
+      "id": 750,
+      "hash": "4d194c6bad102ce030f72f7e1e5e041d511a818467dbd48345f81a66fbef5c86",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Tampa Bay Rays -1.5 + Jalen Brunson Under 2.5 Rebounds",
+      "created_at": "2026-03-29 11:40:13"
+    },
+    {
+      "id": 751,
+      "hash": "9fd1a70ec5e980d1d345e9715a6307e9f5779306722e9a7e4b5c270aabb4b8eb",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Ajay Mitchell Under 2.5 Rebounds + Under 5.5",
+      "created_at": "2026-03-29 11:40:16"
+    },
+    {
+      "id": 752,
+      "hash": "ea55cf8c1109744c46960e51c8023fac0354b5d0bcacc383705873944969a0ba",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Toronto Raptors -2.5",
+      "created_at": "2026-03-29 13:01:26"
+    },
+    {
+      "id": 753,
+      "hash": "d81318639065b6b0e7220c05203994c0aad1946f0f76ca7193a601426d84aedc",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 223.5",
+      "created_at": "2026-03-29 13:01:26"
+    },
+    {
+      "id": 754,
+      "hash": "45ca12690239791282a425081e6a86fb608063d62d3df49301325b1754b51a31",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Athletics ML",
+      "created_at": "2026-03-29 13:01:26"
+    },
+    {
+      "id": 755,
+      "hash": "571126de01ff408749564a179d8b5ac1b5a4b349906a87c9ee461353342c0f5a",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.0",
+      "created_at": "2026-03-29 13:01:26"
+    },
+    {
+      "id": 756,
+      "hash": "41f741576b8878dc701059875a2251983aa94f710cd82b585ca0b5a3943585cf",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.0",
+      "created_at": "2026-03-29 13:01:26"
+    },
+    {
+      "id": 757,
+      "hash": "adc78930d5bf1ec22cfc3c13d9509db5af2068b534e5cf585b44bed01e56cc10",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Davion Mitchell Under 5.5 Assists",
+      "created_at": "2026-03-29 13:01:44"
+    },
+    {
+      "id": 758,
+      "hash": "1c61ca20ad03e4d67b6e6088f8bdc83b76076e0a716f9236eef6e7268fd86ffa",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Nikola Jokic Over 12.5 Rebounds",
+      "created_at": "2026-03-29 13:01:44"
+    },
+    {
+      "id": 759,
+      "hash": "93c9ba6b7a9e35842cbb724804450ad9cf4ceb3fe7209f69cd8f88dafb066a8c",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Davion Mitchell Over 8.5 Points",
+      "created_at": "2026-03-29 13:01:44"
+    },
+    {
+      "id": 760,
+      "hash": "71868f886e81cdf394fe46280851a78f573f2b5a8a1fbb00244f8f7b9f87270b",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Nikola Jokic Over 12.5 Rebounds + Jalen Brunson Under 2.5 Rebounds",
+      "created_at": "2026-03-29 13:01:52"
+    },
+    {
+      "id": 761,
+      "hash": "abeca58ab00f947657507ca375f2cb75d099c5df14ea443fa03307c001231387",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Boston Red Sox -1.5",
+      "created_at": "2026-03-29 13:03:15"
+    },
+    {
+      "id": 762,
+      "hash": "a40ac8d92749406a02ba2d5ce16e3dc0e7cde35478e60c1df529bef4bcbab1a1",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Philadelphia Phillies -156",
+      "created_at": "2026-03-29 13:31:06"
+    },
+    {
+      "id": 763,
+      "hash": "753edbb8101661209af0513e477177729df3494431f588c2bc7413cdb8fd751d",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Robert Williams Over 8.5 Points",
+      "created_at": "2026-03-29 13:31:28"
+    },
+    {
+      "id": 764,
+      "hash": "f85c64204e34f79b3991e054c75aafd2ae51ca5f752c26984e3cfa46372e556f",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ousmane Dieng Under 3.5 Assists",
+      "created_at": "2026-03-29 13:31:28"
+    },
+    {
+      "id": 765,
+      "hash": "8d1b7fa7d53305619a0789ee85267fa11f965de2d057d1e14842d4180cde6aab",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Baltimore Orioles -1.5 +138",
+      "created_at": "2026-03-29 14:01:10"
+    },
+    {
+      "id": 766,
+      "hash": "099faf1e6868401325c7afd3706606f6d8f9b68251c87c6105e3501aa391c802",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Dallas Stars -1.5 +164",
+      "created_at": "2026-03-29 14:01:10"
+    },
+    {
+      "id": 767,
+      "hash": "994faf5fc8510d3b4648eab4ced5225a62f6e5a8338bb20575ce5cd28320743a",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Columbus Blue Jackets -1.5",
+      "created_at": "2026-03-29 14:01:10"
+    },
+    {
+      "id": 768,
+      "hash": "5b6aa5ba73489ee0008c8faa7d7dc6d0bcbb8b848d4bfc114174b789d985ac85",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Denver Nuggets -12.5",
+      "created_at": "2026-03-29 14:31:21"
+    },
+    {
+      "id": 769,
+      "hash": "7fc083f327c63d7c4978cf8d1ac791796c29433384ecaa2a973e4c5cf1277e06",
+      "league": "NCAAB",
+      "market_type": "total",
+      "pick_text": "Over 146.5",
+      "created_at": "2026-03-29 14:31:21"
+    },
+    {
+      "id": 770,
+      "hash": "dff536bfb7f240d861db57103fd8cb7d1903af8d5c8bcd682cd6da3ac741eb31",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Houston Astros -1.5",
+      "created_at": "2026-03-29 14:31:21"
+    },
+    {
+      "id": 771,
+      "hash": "bdb5fcc3785660cfce3aa2e7e124e996587e8e44dd9d15824391f20021621146",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Pittsburgh Pirates +158",
+      "created_at": "2026-03-29 15:01:01"
+    },
+    {
+      "id": 772,
+      "hash": "129722a1092141d6f4ea345a055015d6542721c1f5eab8db83c53849e8a66749",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Florida Panthers +1.5",
+      "created_at": "2026-03-29 15:01:01"
+    },
+    {
+      "id": 773,
+      "hash": "2a75d70612951ef4f72043dd8242f211ecf6311566b21217235ffb25fb15aa2c",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Colorado Rockies +1.5",
+      "created_at": "2026-03-29 15:02:21"
+    },
+    {
+      "id": 774,
+      "hash": "0da1d7ad72c6a48883a4298f5b6ce941d3e3685dda18f2681de0ae6dce994be9",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 7.5",
+      "created_at": "2026-03-29 15:31:07"
+    },
+    {
+      "id": 775,
+      "hash": "b10d8f0db8c41ae706e4be208de275ac71056d1482aef65aa05d3d7be003caf2",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Chicago White Sox +1.5",
+      "created_at": "2026-03-29 15:32:31"
+    },
+    {
+      "id": 776,
+      "hash": "91669b8eb24c8ecbfefba593ca682e844fd82658f7c9837cd7c8662c264d4e70",
+      "league": "NCAAB",
+      "market_type": "spread",
+      "pick_text": "Tennessee Volunteers +8.5",
+      "created_at": "2026-03-29 17:01:24"
+    },
+    {
+      "id": 777,
+      "hash": "288b2f5b78c33505cce2b43b8e9bb153252122d7910142425a3e363e58b7c2ef",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Washington Nationals +1.5",
+      "created_at": "2026-03-29 17:01:24"
+    }
+  ]
+}
