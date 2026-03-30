@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T08:25:01.379307-04:00",
+  "pick_count": 7,
+  "picks": [
+    {
+      "id": 809,
+      "hash": "b97a67c4d1d62f22ebe98ff1fa7d9736bcf3699aa5d60cb1c69a6d56a8bd18d8",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Yankees -1.5",
+      "created_at": "2026-03-30 11:31:03"
+    },
+    {
+      "id": 810,
+      "hash": "07353ab96890590db71f34e22ce9f36f957f19f2a52977f2c4792af68f382019",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Padres ML",
+      "created_at": "2026-03-30 11:31:03"
+    },
+    {
+      "id": 811,
+      "hash": "012f445558cc96adb3dd208f713bfc17e6950a07ae27f26a53cd71353b0d2bda",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Miami Marlins -1.5",
+      "created_at": "2026-03-30 11:31:03"
+    },
+    {
+      "id": 813,
+      "hash": "b3ce2a170936a2a4bb64cd9e7ab1704d76ea9db9db462f9f56e0a0e79db5454a",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Isaac Okoro Under 2.5 Rebounds",
+      "created_at": "2026-03-30 11:38:06"
+    },
+    {
+      "id": 814,
+      "hash": "ad0db892d502c423c78d3f63fe44b5c98696065aff3bec8b47cd698db51cd2b3",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Thomas Bryant Over 4.5 Rebounds",
+      "created_at": "2026-03-30 11:38:06"
+    },
+    {
+      "id": 816,
+      "hash": "5457195fe6c9b2c12dd27916588d4f6a5e157fad6502e9aa21ec3afb7d61f4f7",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Miami Marlins -1.5 + Yankees -1.5",
+      "created_at": "2026-03-30 11:38:12"
+    },
+    {
+      "id": 817,
+      "hash": "20aa8b3a89da2320ed2259c0241e676aee0406b73131a52094e3f9ddd3e8722b",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Padres ML + Isaac Okoro Under 2.5 Rebounds",
+      "created_at": "2026-03-30 11:38:15"
+    }
+  ]
+}
