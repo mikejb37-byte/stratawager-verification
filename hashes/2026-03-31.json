@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T12:01:30.718757-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-03-31T12:33:19.024690-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 859,
@@ -66,6 +66,14 @@
       "market_type": "total",
       "pick_text": "Over 6.5",
       "created_at": "2026-03-31 14:31:29"
+    },
+    {
+      "id": 880,
+      "hash": "fbc13a334a9e152b115a5685d61802c80dc2b505dea899e8885f8fbce3938b59",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "WPG -1.5",
+      "created_at": "2026-03-31 16:31:27"
     }
   ]
 }
