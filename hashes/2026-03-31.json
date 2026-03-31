@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T13:31:51.034639-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-03-31T14:01:59.355899-04:00",
+  "pick_count": 10,
   "picks": [
     {
       "id": 859,
@@ -74,6 +74,14 @@
       "market_type": "spread",
       "pick_text": "WPG -1.5",
       "created_at": "2026-03-31 16:31:27"
+    },
+    {
+      "id": 884,
+      "hash": "2a9b328febebf5a4ecc56fc12c9b9756e5de0ba5fc42cb15e9b47721f8aebf04",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Carolina Hurricanes -1.5",
+      "created_at": "2026-03-31 17:31:31"
     }
   ]
 }
