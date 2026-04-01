@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T15:03:02.794810-04:00",
+  "generated_at": "2026-04-01T15:31:30.111484-04:00",
   "pick_count": 10,
   "picks": [
     {
@@ -9,14 +9,6 @@
       "league": "NBA",
       "market_type": "spread",
       "pick_text": "Sacramento Kings +12.5",
-      "created_at": "2026-04-01 11:31:21"
-    },
-    {
-      "id": 905,
-      "hash": "f2b20c40b18d1fc42d00c8c2ef7ccf4cc97693dd9d4109808008e1ba64c27f44",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Atlanta Hawks -2.5",
       "created_at": "2026-04-01 11:31:21"
     },
     {
@@ -82,6 +74,14 @@
       "market_type": "moneyline",
       "pick_text": "Cincinnati Reds ML",
       "created_at": "2026-04-01 14:01:16"
+    },
+    {
+      "id": 938,
+      "hash": "5180333abdd3461a76fb6ecb4fa20041744a56ed97c8cb24c3c4a807211100c7",
+      "league": "NBA",
+      "market_type": "moneyline",
+      "pick_text": "Magic ML +120",
+      "created_at": "2026-04-01 19:01:22"
     }
   ]
 }
