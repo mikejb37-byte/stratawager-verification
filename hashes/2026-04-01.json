@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:32:47.719206-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-04-01T10:02:51.307326-04:00",
+  "pick_count": 8,
   "picks": [
     {
       "id": 904,
@@ -17,14 +17,6 @@
       "league": "NBA",
       "market_type": "spread",
       "pick_text": "Atlanta Hawks -4.5",
-      "created_at": "2026-04-01 11:31:21"
-    },
-    {
-      "id": 906,
-      "hash": "05e9451c66e1d6f9191f99441f2a1d6277047620594856258d531e3f14f316af",
-      "league": "NBA",
-      "market_type": "moneyline",
-      "pick_text": "Miami Heat +176",
       "created_at": "2026-04-01 11:31:21"
     },
     {
