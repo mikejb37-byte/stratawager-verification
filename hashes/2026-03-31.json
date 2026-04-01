@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T21:01:10.360247-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-03-31T21:30:11.646397-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 859,
@@ -44,12 +44,36 @@
       "created_at": "2026-03-31 13:01:40"
     },
     {
+      "id": 871,
+      "hash": "ab015da3d7acc2cffaf4e8d2ea470da08a4371d9b2d075fd8adaa380a44a3811",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Boston Red Sox +134",
+      "created_at": "2026-03-31 13:31:51"
+    },
+    {
       "id": 872,
       "hash": "b51b1158e6effb8670586fafdd4ce51a548286b1049336c45f1fc2c5a09f1dd8",
       "league": "PARLAY",
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Texas Rangers -1.5 + Detroit Red Wings -1.5",
       "created_at": "2026-03-31 13:32:23"
+    },
+    {
+      "id": 876,
+      "hash": "5f2a554e4c2c7878aae715c870c9e90a1f2c83127456675b1fa23733998b1992",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-03-31 14:31:29"
+    },
+    {
+      "id": 880,
+      "hash": "fbc13a334a9e152b115a5685d61802c80dc2b505dea899e8885f8fbce3938b59",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "WPG -1.5",
+      "created_at": "2026-03-31 16:31:27"
     }
   ]
 }
