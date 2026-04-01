@@ -1,30 +1,14 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T16:32:51.350576-04:00",
-  "pick_count": 11,
+  "generated_at": "2026-04-01T17:01:34.655196-04:00",
+  "pick_count": 8,
   "picks": [
-    {
-      "id": 904,
-      "hash": "c0cdc430aa87203482f6e6cc5adcc552ff87080a6544cdb5e7f54249570828f8",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Sacramento Kings +12.5",
-      "created_at": "2026-04-01 11:31:21"
-    },
     {
       "id": 908,
       "hash": "8edab7d49807adda452342ce06765ffe2c4ffdab6b703134249d0025ecfeafe6",
       "league": "MLB",
       "market_type": "total",
       "pick_text": "Under 7.0",
-      "created_at": "2026-04-01 11:31:21"
-    },
-    {
-      "id": 909,
-      "hash": "f31b6bb8d451c0bfcef6ddbdc29161e27b4f86ed6bc019d32bbcc46f46ccd2b6",
-      "league": "MLB",
-      "market_type": "moneyline",
-      "pick_text": "New York Yankees ML",
       "created_at": "2026-04-01 11:31:21"
     },
     {
@@ -58,14 +42,6 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Sacramento Kings +13.5 + Atlanta Hawks -4.5",
       "created_at": "2026-04-01 11:39:25"
-    },
-    {
-      "id": 918,
-      "hash": "4c12129ed9be6997817fe3ac3f9b394e49912bc87ca9bd96070ba9dd34b1e194",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Boston Celtics -4.5",
-      "created_at": "2026-04-01 13:01:27"
     },
     {
       "id": 929,
