@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T15:31:30.111484-04:00",
+  "generated_at": "2026-04-01T16:01:38.958546-04:00",
   "pick_count": 10,
   "picks": [
     {
@@ -60,20 +60,20 @@
       "created_at": "2026-04-01 11:39:25"
     },
     {
-      "id": 918,
-      "hash": "4c12129ed9be6997817fe3ac3f9b394e49912bc87ca9bd96070ba9dd34b1e194",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Boston Celtics -5.0",
-      "created_at": "2026-04-01 13:01:27"
-    },
-    {
       "id": 929,
       "hash": "03d731345f16109d8fdc37d1c3dd334dc177e30f90e7310532dbe7f5520ff3b4",
       "league": "MLB",
       "market_type": "moneyline",
       "pick_text": "Cincinnati Reds ML",
       "created_at": "2026-04-01 14:01:16"
+    },
+    {
+      "id": 930,
+      "hash": "988971685c16037e34464c2003599eb1b939b4108305dacc9e3e6a6e27ef2404",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Nationals +1.5",
+      "created_at": "2026-04-01 15:01:02"
     },
     {
       "id": 938,
