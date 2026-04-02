@@ -1,39 +1,79 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T11:33:16.787088-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-04-02T12:03:27.285683-04:00",
+  "pick_count": 9,
   "picks": [
     {
-      "id": 978,
-      "hash": "815515070537f26ba58146c183161b8788bb922404409a8dedfdbf19494cb05a",
+      "id": 1000,
+      "hash": "b09c2c27a034de2188b63c5d54b4e8bf39512469064caaa9aa168c6fad7050bb",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Phoenix Suns +5.5",
+      "created_at": "2026-04-02 16:00:33"
+    },
+    {
+      "id": 1001,
+      "hash": "fa47248d69bb4d9c351f805e0f6e42e79bc6f00722f587782798faaa5a42bfbe",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 232.5",
+      "created_at": "2026-04-02 16:00:33"
+    },
+    {
+      "id": 1002,
+      "hash": "23513cfb635f6c97d6c82a155c6bd598d884a830f6fd61177d4887bebf3d3256",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Detroit Pistons -3.5",
+      "created_at": "2026-04-02 16:00:33"
+    },
+    {
+      "id": 1004,
+      "hash": "3852b0620423baf7f4b39e4a1ab207998d71c74281fdace6416e5e72d1720f61",
       "league": "MLB",
       "market_type": "total",
-      "pick_text": "Over 9.0",
-      "created_at": "2026-04-02 15:22:39"
+      "pick_text": "Over 9.5",
+      "created_at": "2026-04-02 16:00:33"
     },
     {
-      "id": 983,
-      "hash": "0f0dbc01cfabf80bab8df05c0b3bd1eeb5297db4bd05a9527f5bf53477f99502",
+      "id": 1005,
+      "hash": "1e908fd4360d9d5fbc16ebf9d9645a342f3f13370398fd6f18a6590e02589e32",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-02 16:00:33"
+    },
+    {
+      "id": 1007,
+      "hash": "fd3208894aa939c8e99883a987b967f47691ce91b7f91c54cb987482d66f98ed",
       "league": "NBA",
       "market_type": "player_prop",
-      "pick_text": "Royce O'Neale Under 7.5 Points",
-      "created_at": "2026-04-02 15:29:52"
+      "pick_text": "John Collins Under 5.5 Rebounds",
+      "created_at": "2026-04-02 16:01:52"
     },
     {
-      "id": 984,
-      "hash": "cdb886819c6be512bbd5cb3973f718ce1e8a27416f5b8d1e6ff255ead645eda7",
-      "league": "PARLAY",
-      "market_type": "parlay",
-      "pick_text": "2-Leg Parlay: Royce O'Neale Under 7.5 Points + Atlanta Braves @ Arizona Diamondbacks Over 9.0",
-      "created_at": "2026-04-02 15:29:57"
+      "id": 1008,
+      "hash": "6ee1cd74df31bc25c1cf224cb034b811ef2dd2c2a073274715931dc46bc9e4ed",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Harrison Barnes Under 7.5 Points",
+      "created_at": "2026-04-02 16:01:52"
     },
     {
-      "id": 985,
-      "hash": "bc05f6347dfb9f838cf48f1dc0c7819bd0990aaac92130e773b8ad4de71be754",
+      "id": 1009,
+      "hash": "57679c85d0728ba7c7a9b6cb37c2a7ff9b82c7d93ad083a58864612c9f4fb2c0",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ausar Thompson Over 5.5 Rebounds",
+      "created_at": "2026-04-02 16:01:52"
+    },
+    {
+      "id": 1010,
+      "hash": "42b7d5dd874ae54d34b513707433c1c0dc05e175153b778efe3d1a0b8db4b47a",
       "league": "PARLAY",
       "market_type": "parlay",
-      "pick_text": "2-Leg Parlay: Miles Bridges Over 4.5 Rebounds + Darius Garland Under 19.5 Points",
-      "created_at": "2026-04-02 15:30:00"
+      "pick_text": "2-Leg Parlay: Harrison Barnes Under 7.5 Points + Ausar Thompson Over 5.5 Rebounds",
+      "created_at": "2026-04-02 16:01:58"
     }
   ]
 }
