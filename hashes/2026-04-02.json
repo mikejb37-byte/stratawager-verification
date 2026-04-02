@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T17:32:04.697436-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-04-02T18:01:53.661087-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 1000,
@@ -25,6 +25,14 @@
       "league": "MLB",
       "market_type": "total",
       "pick_text": "Over 9.5",
+      "created_at": "2026-04-02 16:00:33"
+    },
+    {
+      "id": 1005,
+      "hash": "1e908fd4360d9d5fbc16ebf9d9645a342f3f13370398fd6f18a6590e02589e32",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
       "created_at": "2026-04-02 16:00:33"
     },
     {
@@ -74,6 +82,38 @@
       "market_type": "total",
       "pick_text": "Under 5.5",
       "created_at": "2026-04-02 17:01:24"
+    },
+    {
+      "id": 1019,
+      "hash": "e22049e0c2e6cdfc46ba7cb390b0de12abf638388b06d4e95f8ac027623282fd",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-02 18:31:29"
+    },
+    {
+      "id": 1024,
+      "hash": "84db60aa4f56b315006987d3688a1eaa77b0daa8613e6943de648c3e8676f3e6",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
+      "created_at": "2026-04-02 21:31:41"
+    },
+    {
+      "id": 1025,
+      "hash": "f08b56fd62643599f29fff9c137270d9ead651d995ea56260cb3986b2808afda",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Toronto Blue Jays -1.5",
+      "created_at": "2026-04-02 21:31:41"
+    },
+    {
+      "id": 1026,
+      "hash": "c1dc679cb836ed30f89a32282af1744936061fea02119888f2c339da56eadc7c",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-04-02 21:31:41"
     }
   ]
 }
