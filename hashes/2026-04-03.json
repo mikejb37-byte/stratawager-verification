@@ -1,7 +1,7 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T17:01:31.418522-04:00",
-  "pick_count": 11,
+  "generated_at": "2026-04-03T17:31:46.897502-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 1030,
@@ -90,6 +90,30 @@
       "market_type": "moneyline",
       "pick_text": "Royals ML",
       "created_at": "2026-04-03 13:01:23"
+    },
+    {
+      "id": 1059,
+      "hash": "351e0432a15ea1ad4a3faf463450ba56b47f1784fd3b87853cb4fa3ae3d1d169",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 10.0",
+      "created_at": "2026-04-03 15:01:30"
+    },
+    {
+      "id": 1062,
+      "hash": "48c5f9f8711f0b06fc842bccb4674e47b8ad6fda50646ad96c30677308fcbfe1",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Cleveland Guardians ML",
+      "created_at": "2026-04-03 16:31:23"
+    },
+    {
+      "id": 1065,
+      "hash": "dfc311dec3527cf199ff6d49a9c25c76ad86389cdc479ee579525091f6ac2e06",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 8.5",
+      "created_at": "2026-04-03 17:31:05"
     }
   ]
 }
