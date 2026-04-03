@@ -1,8 +1,32 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T08:25:01.704020-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-03T09:01:45.584424-04:00",
+  "pick_count": 11,
   "picks": [
+    {
+      "id": 1030,
+      "hash": "3e4d1e7e3efe2df17b729f0a834dd8a244c79d720da1a55b4db219ae4bd7eaaf",
+      "league": "NCAAB",
+      "market_type": "futures_outright",
+      "pick_text": "UConn Huskies \u2014 NCAA Tournament Winner (NCAAB)",
+      "created_at": "2026-04-03T10:45:17.267535+00:00"
+    },
+    {
+      "id": 1031,
+      "hash": "590a4eb8932c39b1018ba004b77d27cdf7e1b71c6ff8ec7853e949351b5302c8",
+      "league": "NHL",
+      "market_type": "futures_outright",
+      "pick_text": "Dallas Stars \u2014 Stanley Cup Winner (NHL)",
+      "created_at": "2026-04-03T10:45:17.267535+00:00"
+    },
+    {
+      "id": 1032,
+      "hash": "e6166668a9d3ab6e4e577f8b455f5e17bb54cfabbdc5c70de4892f645dbc9183",
+      "league": "MLB",
+      "market_type": "futures_outright",
+      "pick_text": "Houston Astros \u2014 World Series Winner (MLB)",
+      "created_at": "2026-04-03T10:45:17.267535+00:00"
+    },
     {
       "id": 1041,
       "hash": "7390a07f53b5533f9fdea58891c1e82a6649a33d752b17ade67c2b4225238c5b",
