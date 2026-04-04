@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T15:32:14.197379-04:00",
-  "pick_count": 15,
+  "generated_at": "2026-04-04T16:02:14.213196-04:00",
+  "pick_count": 17,
   "picks": [
     {
       "id": 895,
@@ -58,6 +58,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Tampa Bay Rays -1.5 + Cameron Johnson Under 3.5 Rebounds",
       "created_at": "2026-04-04 11:41:17"
+    },
+    {
+      "id": 1086,
+      "hash": "32f3cef75fb720390d6c73581d90975b7d8c5fdb6de2667eb9b046b6c5111d16",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 9.5",
+      "created_at": "2026-04-04 13:01:50"
     },
     {
       "id": 1090,
@@ -122,6 +130,14 @@
       "market_type": "total",
       "pick_text": "Over 6.5",
       "created_at": "2026-04-04 17:01:48"
+    },
+    {
+      "id": 1109,
+      "hash": "da2209d8f8710d07e7c57e5c44c2ed00497e586988d960aec0d36123fcf3ee00",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
+      "created_at": "2026-04-04 19:31:51"
     }
   ]
 }
