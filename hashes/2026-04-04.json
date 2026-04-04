@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T15:01:54.346023-04:00",
-  "pick_count": 16,
+  "generated_at": "2026-04-04T15:32:14.197379-04:00",
+  "pick_count": 15,
   "picks": [
     {
       "id": 895,
@@ -9,14 +9,6 @@
       "league": "NCAAB",
       "market_type": "moneyline",
       "pick_text": "Michigan -128",
-      "created_at": "2026-04-01T10:40:25.788545+00:00"
-    },
-    {
-      "id": 898,
-      "hash": "ce95ae2e68342a8c006e5e47824eb5b6847ed9bb23ddaee748e78f9bf29adc92",
-      "league": "NCAAB",
-      "market_type": "spread",
-      "pick_text": "Illinois Fighting Illini -1.5",
       "created_at": "2026-04-01T10:40:25.788545+00:00"
     },
     {
