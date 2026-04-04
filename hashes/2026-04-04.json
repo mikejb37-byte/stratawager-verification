@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T10:33:14.722874-04:00",
-  "pick_count": 15,
+  "generated_at": "2026-04-04T11:01:51.541846-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 800,
@@ -9,14 +9,6 @@
       "league": "NCAAB",
       "market_type": "spread",
       "pick_text": "Arizona -1.5",
-      "created_at": "2026-03-30T10:40:22.000700+00:00"
-    },
-    {
-      "id": 801,
-      "hash": "11ae48305c12f556312c9949544448b408b99e1784c66dcbdaae07bc1654a25a",
-      "league": "NCAAB",
-      "market_type": "total",
-      "pick_text": "Under 139.5",
       "created_at": "2026-03-30T10:40:22.000700+00:00"
     },
     {
