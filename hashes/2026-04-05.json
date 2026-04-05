@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T08:25:01.969591-04:00",
+  "pick_count": 7,
+  "picks": [
+    {
+      "id": 1114,
+      "hash": "b978696451ac2ec0eb4fd5a4a804f7e5b0fad472250e4ec8c9e6b3840c32eab7",
+      "league": "NBA",
+      "market_type": "moneyline",
+      "pick_text": "Minnesota Timberwolves ML",
+      "created_at": "2026-04-05 11:31:18"
+    },
+    {
+      "id": 1116,
+      "hash": "a4256f2d53a962d9cefcc2088a4d77b080e669b723946ccd62932288fa0161d7",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Tampa Bay Rays -1.5",
+      "created_at": "2026-04-05 11:31:18"
+    },
+    {
+      "id": 1117,
+      "hash": "04eb0c4ae7bc4d6c6b32ccfdb01dc8c9b337f6b5e3545109c1d9d28158fe9dd4",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
+      "created_at": "2026-04-05 11:31:18"
+    },
+    {
+      "id": 1121,
+      "hash": "301ac66106e24fcd5a20c10cd827e6d14698ea2477c186ea86d7e974c7cee8d3",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Payton Pritchard Over 15.5 Points",
+      "created_at": "2026-04-05 11:40:06"
+    },
+    {
+      "id": 1123,
+      "hash": "2bdf2c4aa24266794eb9f964626601a479d98b9e86ff670b9c3ef4f304c72b6d",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Stephen Curry Over 3.5 Assists",
+      "created_at": "2026-04-05 11:40:06"
+    },
+    {
+      "id": 1124,
+      "hash": "226462887aabceda26d9e40e3730e2e68067053afba762b3ebd3f6e629e986c7",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Stephen Curry Over 3.5 Assists + Tampa Bay Rays -1.5",
+      "created_at": "2026-04-05 11:40:12"
+    },
+    {
+      "id": 1125,
+      "hash": "a46475bcd225be157a489abbe3f5abdfff715cd87af1d9bc5fd2d6da1dc3ec61",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Chicago Cubs @ Cleveland Guardians Under 7.5 + Payton Pritchard Over 15.5 Points",
+      "created_at": "2026-04-05 11:40:15"
+    }
+  ]
+}
