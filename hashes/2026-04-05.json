@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T14:31:59.881126-04:00",
-  "pick_count": 12,
+  "generated_at": "2026-04-05T15:01:01.728182-04:00",
+  "pick_count": 13,
   "picks": [
     {
       "id": 1114,
@@ -68,6 +68,14 @@
       "created_at": "2026-04-05 13:03:00"
     },
     {
+      "id": 1129,
+      "hash": "a6171b40382d54721a671a47a7d9722d69379a49b86659080e7d27360d340a9d",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Phoenix Suns -11.5",
+      "created_at": "2026-04-05 13:31:45"
+    },
+    {
       "id": 1131,
       "hash": "7c4cebd2cae45825bf0bf446efb4a6eff652ee5aa10837c8e5b5358ce3987da5",
       "league": "MLB",
@@ -84,20 +92,20 @@
       "created_at": "2026-04-05 14:01:47"
     },
     {
+      "id": 1138,
+      "hash": "12e7333465a678df075c0cdedf546bf98116198fe718de11374cfc55a4589747",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "New York Mets ML",
+      "created_at": "2026-04-05 15:01:41"
+    },
+    {
       "id": 1143,
       "hash": "3142b75286e9f2d3f49ced31d4073c3e643ff9c33d6d978c9f3bb9f1c9b48304",
       "league": "NHL",
       "market_type": "spread",
       "pick_text": "Wild -1.5",
       "created_at": "2026-04-05 16:31:58"
-    },
-    {
-      "id": 1144,
-      "hash": "1b22a21cb9c33265a11ec1ecbb144c5d46a6101b7fb301258e1e1b93629a2a99",
-      "league": "NBA",
-      "market_type": "total",
-      "pick_text": "Over 220.5",
-      "created_at": "2026-04-05 16:33:56"
     }
   ]
 }
