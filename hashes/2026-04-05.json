@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T10:03:45.914832-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-04-05T10:32:02.860872-04:00",
+  "pick_count": 8,
   "picks": [
     {
       "id": 1114,
@@ -9,6 +9,14 @@
       "league": "NBA",
       "market_type": "moneyline",
       "pick_text": "Minnesota Timberwolves ML",
+      "created_at": "2026-04-05 11:31:18"
+    },
+    {
+      "id": 1116,
+      "hash": "a4256f2d53a962d9cefcc2088a4d77b080e669b723946ccd62932288fa0161d7",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Tampa Bay Rays -1.5",
       "created_at": "2026-04-05 11:31:18"
     },
     {
@@ -50,6 +58,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Chicago Cubs @ Cleveland Guardians Under 7.5 + Payton Pritchard Over 15.5 Points",
       "created_at": "2026-04-05 11:40:15"
+    },
+    {
+      "id": 1135,
+      "hash": "7c7a0b65d7af363d17c82a2037ca4f0a7fbdbbcf7789003aa08e0803321eeb46",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-05 14:01:47"
     }
   ]
 }
