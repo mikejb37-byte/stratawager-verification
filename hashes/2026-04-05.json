@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T10:32:02.860872-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-05T11:02:02.321284-04:00",
+  "pick_count": 12,
   "picks": [
     {
       "id": 1114,
@@ -58,6 +58,38 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Chicago Cubs @ Cleveland Guardians Under 7.5 + Payton Pritchard Over 15.5 Points",
       "created_at": "2026-04-05 11:40:15"
+    },
+    {
+      "id": 1127,
+      "hash": "11acf6a59f2a1498ce91907abdefaf7c158686e27bfbef669e5d476ab8fe90d4",
+      "league": "NBA",
+      "market_type": "moneyline",
+      "pick_text": "Dallas Mavericks ML",
+      "created_at": "2026-04-05 13:03:00"
+    },
+    {
+      "id": 1129,
+      "hash": "a6171b40382d54721a671a47a7d9722d69379a49b86659080e7d27360d340a9d",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Phoenix Suns -10.0",
+      "created_at": "2026-04-05 13:31:45"
+    },
+    {
+      "id": 1131,
+      "hash": "7c4cebd2cae45825bf0bf446efb4a6eff652ee5aa10837c8e5b5358ce3987da5",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 7.5",
+      "created_at": "2026-04-05 13:31:45"
+    },
+    {
+      "id": 1132,
+      "hash": "e9db2fba4c9a28f3640da9f4b351d991cf1c116feff2b5c3461792ed1f772905",
+      "league": "NBA",
+      "market_type": "moneyline",
+      "pick_text": "Memphis Grizzlies +200",
+      "created_at": "2026-04-05 14:01:47"
     },
     {
       "id": 1135,
