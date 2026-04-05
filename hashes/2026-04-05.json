@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T16:31:24.178462-04:00",
-  "pick_count": 14,
+  "generated_at": "2026-04-05T17:01:32.297016-04:00",
+  "pick_count": 11,
   "picks": [
     {
       "id": 1114,
@@ -52,14 +52,6 @@
       "created_at": "2026-04-05 11:40:15"
     },
     {
-      "id": 1127,
-      "hash": "11acf6a59f2a1498ce91907abdefaf7c158686e27bfbef669e5d476ab8fe90d4",
-      "league": "NBA",
-      "market_type": "moneyline",
-      "pick_text": "Dallas Mavericks ML",
-      "created_at": "2026-04-05 13:03:00"
-    },
-    {
       "id": 1129,
       "hash": "a6171b40382d54721a671a47a7d9722d69379a49b86659080e7d27360d340a9d",
       "league": "NBA",
@@ -76,28 +68,12 @@
       "created_at": "2026-04-05 13:31:45"
     },
     {
-      "id": 1132,
-      "hash": "e9db2fba4c9a28f3640da9f4b351d991cf1c116feff2b5c3461792ed1f772905",
-      "league": "NBA",
-      "market_type": "moneyline",
-      "pick_text": "Memphis Grizzlies +200",
-      "created_at": "2026-04-05 14:01:47"
-    },
-    {
       "id": 1135,
       "hash": "7c7a0b65d7af363d17c82a2037ca4f0a7fbdbbcf7789003aa08e0803321eeb46",
       "league": "NHL",
       "market_type": "total",
       "pick_text": "Under 6.5",
       "created_at": "2026-04-05 14:01:47"
-    },
-    {
-      "id": 1137,
-      "hash": "6644c031c3157efbaf041de56fd3aba08d177e1cc2c6227bdd676d1b861b388b",
-      "league": "NHL",
-      "market_type": "total",
-      "pick_text": "Over 6.5",
-      "created_at": "2026-04-05 14:31:42"
     },
     {
       "id": 1138,
