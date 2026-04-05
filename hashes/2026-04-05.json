@@ -1,8 +1,16 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T13:02:04.836241-04:00",
+  "generated_at": "2026-04-05T13:32:10.179553-04:00",
   "pick_count": 11,
   "picks": [
+    {
+      "id": 1114,
+      "hash": "b978696451ac2ec0eb4fd5a4a804f7e5b0fad472250e4ec8c9e6b3840c32eab7",
+      "league": "NBA",
+      "market_type": "moneyline",
+      "pick_text": "Minnesota Timberwolves ML",
+      "created_at": "2026-04-05 11:31:18"
+    },
     {
       "id": 1116,
       "hash": "a4256f2d53a962d9cefcc2088a4d77b080e669b723946ccd62932288fa0161d7",
@@ -58,14 +66,6 @@
       "market_type": "moneyline",
       "pick_text": "Dallas Mavericks ML",
       "created_at": "2026-04-05 13:03:00"
-    },
-    {
-      "id": 1129,
-      "hash": "a6171b40382d54721a671a47a7d9722d69379a49b86659080e7d27360d340a9d",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Phoenix Suns -10.0",
-      "created_at": "2026-04-05 13:31:45"
     },
     {
       "id": 1131,
