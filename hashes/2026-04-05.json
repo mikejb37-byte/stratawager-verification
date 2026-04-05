@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T16:02:06.349164-04:00",
-  "pick_count": 13,
+  "generated_at": "2026-04-05T16:31:24.178462-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 1114,
@@ -90,6 +90,14 @@
       "market_type": "total",
       "pick_text": "Under 6.5",
       "created_at": "2026-04-05 14:01:47"
+    },
+    {
+      "id": 1137,
+      "hash": "6644c031c3157efbaf041de56fd3aba08d177e1cc2c6227bdd676d1b861b388b",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-04-05 14:31:42"
     },
     {
       "id": 1138,
