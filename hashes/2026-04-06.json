@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T15:01:49.041718-04:00",
-  "pick_count": 13,
+  "generated_at": "2026-04-06T15:31:45.087183-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 1160,
@@ -26,6 +26,14 @@
       "market_type": "total",
       "pick_text": "Under 7.0",
       "created_at": "2026-04-06 11:31:23"
+    },
+    {
+      "id": 1167,
+      "hash": "45ce94d2a18d77552f9915e650a80e223ac439ffa49e1c54f4934a5d6706c657",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Evan Mobley Under 3.5 Assists",
+      "created_at": "2026-04-06 11:39:04"
     },
     {
       "id": 1168,
@@ -58,14 +66,6 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Cincinnati Reds @ Miami Marlins Over 8.0 + UConn Huskies @ Michigan Wolverines Under 144.5",
       "created_at": "2026-04-06 11:39:13"
-    },
-    {
-      "id": 1175,
-      "hash": "df6e44e274cecaee606a5d751db2e8d0dd660b0d172bf680a16e73942e436ad8",
-      "league": "NBA",
-      "market_type": "total",
-      "pick_text": "Over 238.5",
-      "created_at": "2026-04-06 13:31:28"
     },
     {
       "id": 1177,
@@ -106,6 +106,14 @@
       "market_type": "total",
       "pick_text": "Under 8.5",
       "created_at": "2026-04-06 15:31:31"
+    },
+    {
+      "id": 1187,
+      "hash": "6b9cf1db674022e574485ae9d46dd291abe147372c8fcfe886eb0475bded509d",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Pittsburgh Pirates -1.5",
+      "created_at": "2026-04-06 19:01:31"
     }
   ]
 }
