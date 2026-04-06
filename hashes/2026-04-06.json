@@ -1,6 +1,6 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T18:01:48.743365-04:00",
+  "generated_at": "2026-04-06T18:31:32.860259-04:00",
   "pick_count": 14,
   "picks": [
     {
@@ -60,14 +60,6 @@
       "created_at": "2026-04-06 11:39:13"
     },
     {
-      "id": 1174,
-      "hash": "afa5369f7329a0c0c66327299bf7c944fa257a8e6bd71cb2d79946ffc8795d3d",
-      "league": "NBA",
-      "market_type": "moneyline",
-      "pick_text": "New York +102",
-      "created_at": "2026-04-06 13:31:28"
-    },
-    {
       "id": 1177,
       "hash": "89d793af8d2f260e692edfa3f7192890a64997a1e540c04185e77860947c5bbf",
       "league": "NHL",
@@ -106,6 +98,14 @@
       "market_type": "total",
       "pick_text": "Under 8.5",
       "created_at": "2026-04-06 15:31:31"
+    },
+    {
+      "id": 1186,
+      "hash": "7a7aceea31b5a075d52232c504cbc8f7f6b7b0bee7bd8968dd20353fd1770614",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 10.5",
+      "created_at": "2026-04-06 18:31:22"
     },
     {
       "id": 1187,
