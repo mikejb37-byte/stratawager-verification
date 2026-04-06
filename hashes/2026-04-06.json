@@ -1,14 +1,14 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T11:02:01.799248-04:00",
-  "pick_count": 12,
+  "generated_at": "2026-04-06T11:31:50.473879-04:00",
+  "pick_count": 13,
   "picks": [
     {
       "id": 1160,
       "hash": "19c9bed5c3e45436dc942d0ff5b6ef9dc0837cd1450ad294f30f45c04569bf66",
       "league": "NCAAB",
       "market_type": "total",
-      "pick_text": "Under 144.5",
+      "pick_text": "Under 145.5",
       "created_at": "2026-04-06 11:31:23"
     },
     {
@@ -76,14 +76,6 @@
       "created_at": "2026-04-06 13:31:28"
     },
     {
-      "id": 1175,
-      "hash": "df6e44e274cecaee606a5d751db2e8d0dd660b0d172bf680a16e73942e436ad8",
-      "league": "NBA",
-      "market_type": "total",
-      "pick_text": "Over 238.5",
-      "created_at": "2026-04-06 13:31:28"
-    },
-    {
       "id": 1177,
       "hash": "89d793af8d2f260e692edfa3f7192890a64997a1e540c04185e77860947c5bbf",
       "league": "NHL",
@@ -98,6 +90,22 @@
       "market_type": "moneyline",
       "pick_text": "Winnipeg -166",
       "created_at": "2026-04-06 13:31:28"
+    },
+    {
+      "id": 1179,
+      "hash": "320642884ca6f5467b88cde27ebb14ba824745e4d20c14a022f90c8950bb55e5",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Toronto Blue Jays ML",
+      "created_at": "2026-04-06 14:31:35"
+    },
+    {
+      "id": 1181,
+      "hash": "22c6e34222e36bd205a286ca440abf329ca3245f764989890d5577eff9d99dfd",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-04-06 15:01:42"
     }
   ]
 }
