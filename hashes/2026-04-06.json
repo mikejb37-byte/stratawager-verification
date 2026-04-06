@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T14:31:40.790834-04:00",
-  "pick_count": 14,
+  "generated_at": "2026-04-06T15:01:49.041718-04:00",
+  "pick_count": 13,
   "picks": [
     {
       "id": 1160,
@@ -26,14 +26,6 @@
       "market_type": "total",
       "pick_text": "Under 7.0",
       "created_at": "2026-04-06 11:31:23"
-    },
-    {
-      "id": 1167,
-      "hash": "45ce94d2a18d77552f9915e650a80e223ac439ffa49e1c54f4934a5d6706c657",
-      "league": "NBA",
-      "market_type": "player_prop",
-      "pick_text": "Evan Mobley Under 3.5 Assists",
-      "created_at": "2026-04-06 11:39:04"
     },
     {
       "id": 1168,
