@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T11:31:50.473879-04:00",
-  "pick_count": 13,
+  "generated_at": "2026-04-06T12:01:35.549111-04:00",
+  "pick_count": 14,
   "picks": [
     {
       "id": 1160,
@@ -106,6 +106,14 @@
       "market_type": "total",
       "pick_text": "Under 5.5",
       "created_at": "2026-04-06 15:01:42"
+    },
+    {
+      "id": 1182,
+      "hash": "2fbf99efd837b6caedaffaccbd861bd4bc2db5fdfdcbbbe4f0b798400b4246ed",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 8.5",
+      "created_at": "2026-04-06 15:31:31"
     }
   ]
 }
