@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T11:03:54.079434-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-07T11:32:19.568695-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 1192,
@@ -58,6 +58,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Philadelphia Flyers @ New Jersey Devils Under 5.5 + Moussa Diabate Under 8.5 Rebounds",
       "created_at": "2026-04-07 11:41:45"
+    },
+    {
+      "id": 1208,
+      "hash": "fc0a2d655e1f026230e8bd18ff38054a3d484e2f546ffc57667dea24565e5d8f",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-04-07 14:01:31"
     },
     {
       "id": 1213,
