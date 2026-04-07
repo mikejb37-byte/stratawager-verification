@@ -1,16 +1,8 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T09:02:07.331339-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-07T09:33:40.986289-04:00",
+  "pick_count": 7,
   "picks": [
-    {
-      "id": 1191,
-      "hash": "2dc72ea1e2dbe281fa770f1b95da95bdc9122ae4e99c438bf778fec8a60f6b84",
-      "league": "NBA",
-      "market_type": "total",
-      "pick_text": "Under 249.5",
-      "created_at": "2026-04-07 11:31:26"
-    },
     {
       "id": 1192,
       "hash": "dfae7c4929ef32d5175d4bf0718944d5251d2af22b42f07e30c953db3da5801c",
