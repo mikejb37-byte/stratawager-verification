@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T08:25:01.584903-04:00",
+  "pick_count": 8,
+  "picks": [
+    {
+      "id": 1191,
+      "hash": "2dc72ea1e2dbe281fa770f1b95da95bdc9122ae4e99c438bf778fec8a60f6b84",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 249.5",
+      "created_at": "2026-04-07 11:31:26"
+    },
+    {
+      "id": 1192,
+      "hash": "dfae7c4929ef32d5175d4bf0718944d5251d2af22b42f07e30c953db3da5801c",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Chicago Bulls -6.0",
+      "created_at": "2026-04-07 11:31:26"
+    },
+    {
+      "id": 1195,
+      "hash": "bfd22e0c1098a49c5fce43e50a2913bfd0309b6e973529020b41f478bec4f00a",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-04-07 11:31:26"
+    },
+    {
+      "id": 1198,
+      "hash": "eacf1366e7444197ebd95adb83ff8129a2fd245dd80aae3842546053440e4986",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jakob Poeltl Under 7.5 Rebounds",
+      "created_at": "2026-04-07 11:41:35"
+    },
+    {
+      "id": 1199,
+      "hash": "d7aa40841891ccafa8aeebe132d2b90f593481e7ff440ab8b5a6c0ae82ac5a55",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "John Collins Under 5.5 Rebounds",
+      "created_at": "2026-04-07 11:41:35"
+    },
+    {
+      "id": 1200,
+      "hash": "9e1ef895e2d7e4cac3cc0f679f6e791404d5366ee431df5f99dced6aa283b22e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Moussa Diabate Under 8.5 Rebounds",
+      "created_at": "2026-04-07 11:41:35"
+    },
+    {
+      "id": 1201,
+      "hash": "3a6d3633b76bf01a02bdbc9202c4c26a92051e1c9e480415041ea461cbb8c1c3",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Chicago Bulls -6.0 + Jakob Poeltl Under 7.5 Rebounds",
+      "created_at": "2026-04-07 11:41:41"
+    },
+    {
+      "id": 1202,
+      "hash": "2a71b2690f4cd80d723d6d6aa41e1c545d60f8a032c9fad9e284457804c41baa",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Philadelphia Flyers @ New Jersey Devils Under 5.5 + Moussa Diabate Under 8.5 Rebounds",
+      "created_at": "2026-04-07 11:41:45"
+    }
+  ]
+}
