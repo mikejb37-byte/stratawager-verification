@@ -1,16 +1,8 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T13:01:41.131941-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-04-08T13:31:36.299266-04:00",
+  "pick_count": 5,
   "picks": [
-    {
-      "id": 1230,
-      "hash": "d75e96808eadf0e565fc5d394a10022732ecf42eee795c894dc37f3f1c0fda6e",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Milwaukee Bucks +19.5",
-      "created_at": "2026-04-08 11:31:23"
-    },
     {
       "id": 1234,
       "hash": "04a936dbfa7ffd4bd28103b2f9af72d6e1ff1c41998ed0afcc43113e70d55d6f",
