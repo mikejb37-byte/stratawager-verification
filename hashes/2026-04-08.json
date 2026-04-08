@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T08:25:01.550701-04:00",
+  "pick_count": 6,
+  "picks": [
+    {
+      "id": 1230,
+      "hash": "d75e96808eadf0e565fc5d394a10022732ecf42eee795c894dc37f3f1c0fda6e",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Milwaukee Bucks +18.5",
+      "created_at": "2026-04-08 11:31:23"
+    },
+    {
+      "id": 1234,
+      "hash": "04a936dbfa7ffd4bd28103b2f9af72d6e1ff1c41998ed0afcc43113e70d55d6f",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 7.5",
+      "created_at": "2026-04-08 11:31:23"
+    },
+    {
+      "id": 1236,
+      "hash": "fcd53306d2b572833d70fdf1fcb496624049bf63ab5ee6d82627d0811b366bcf",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Cameron Johnson Under 3.5 Rebounds",
+      "created_at": "2026-04-08 11:38:27"
+    },
+    {
+      "id": 1238,
+      "hash": "fe45993553a94e3d5350628b61fed42850ef4087ef13de23bd1231ff249df28a",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Donovan Clingan Over 11.5 Rebounds",
+      "created_at": "2026-04-08 11:38:27"
+    },
+    {
+      "id": 1239,
+      "hash": "26076d48b27bd24a96547ed0c029f9360404786b5e8470db7ea21d0276c2df31",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Donovan Clingan Over 11.5 Rebounds + Cameron Johnson Under 3.5 Rebounds",
+      "created_at": "2026-04-08 11:38:34"
+    },
+    {
+      "id": 1240,
+      "hash": "1e67c795884dcbd8cf5b1b4b9636b902ee8d3d4ea834e59c1718a1534681f06c",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Cincinnati Reds @ Miami Marlins Over 7.5 + Milwaukee Bucks +18.5",
+      "created_at": "2026-04-08 11:38:37"
+    }
+  ]
+}
