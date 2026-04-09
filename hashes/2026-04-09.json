@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T16:31:56.238597-04:00",
-  "pick_count": 14,
+  "generated_at": "2026-04-09T17:02:12.129958-04:00",
+  "pick_count": 13,
   "picks": [
     {
       "id": 1260,
@@ -9,14 +9,6 @@
       "league": "NBA",
       "market_type": "moneyline",
       "pick_text": "Boston Celtics +160",
-      "created_at": "2026-04-09 11:31:29"
-    },
-    {
-      "id": 1265,
-      "hash": "f32d530e7b38d4df67fdf7050c0077852c68ed8a809ab3a8af43c99a04254dba",
-      "league": "NHL",
-      "market_type": "total",
-      "pick_text": "Under 6.5",
       "created_at": "2026-04-09 11:31:29"
     },
     {
