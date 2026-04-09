@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T14:32:04.079000-04:00",
+  "generated_at": "2026-04-09T15:02:15.274990-04:00",
   "pick_count": 13,
   "picks": [
     {
@@ -25,14 +25,6 @@
       "league": "NHL",
       "market_type": "spread",
       "pick_text": "Colorado Avalanche +1.5",
-      "created_at": "2026-04-09 11:31:29"
-    },
-    {
-      "id": 1267,
-      "hash": "1a48228fdc8e17a5c1c3162a6c5240d0aa15dd61410bc4c1536208e9ce4e36b7",
-      "league": "NHL",
-      "market_type": "moneyline",
-      "pick_text": "St Louis Blues ML",
       "created_at": "2026-04-09 11:31:29"
     },
     {
@@ -106,6 +98,14 @@
       "market_type": "total",
       "pick_text": "Over 224.5",
       "created_at": "2026-04-09 16:01:45"
+    },
+    {
+      "id": 1292,
+      "hash": "a21fa6fca63c3120150050bd3cc18e8738a082c483fc834bad64ae204c8153fd",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-09 18:31:40"
     }
   ]
 }
