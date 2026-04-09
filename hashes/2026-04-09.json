@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T15:32:04.939085-04:00",
-  "pick_count": 14,
+  "generated_at": "2026-04-09T16:02:05.839560-04:00",
+  "pick_count": 13,
   "picks": [
     {
       "id": 1260,
@@ -17,14 +17,6 @@
       "league": "NHL",
       "market_type": "total",
       "pick_text": "Under 6.5",
-      "created_at": "2026-04-09 11:31:29"
-    },
-    {
-      "id": 1266,
-      "hash": "02bf37de441a5645fbddb1c61181a103d82d549125437e49e79a11aede8af5a8",
-      "league": "NHL",
-      "market_type": "spread",
-      "pick_text": "Colorado Avalanche +1.5",
       "created_at": "2026-04-09 11:31:29"
     },
     {
@@ -88,7 +80,7 @@
       "hash": "e3caac291fc2bda5717f8239094c18578bfcae14fc05b51d394cc16824dbc055",
       "league": "NBA",
       "market_type": "total",
-      "pick_text": "Under 247.5",
+      "pick_text": "Under 248.5",
       "created_at": "2026-04-09 16:01:45"
     },
     {
