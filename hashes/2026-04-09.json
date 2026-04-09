@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T17:02:12.129958-04:00",
+  "generated_at": "2026-04-09T17:33:38.239679-04:00",
   "pick_count": 13,
   "picks": [
     {
@@ -68,14 +68,6 @@
       "created_at": "2026-04-09 15:01:38"
     },
     {
-      "id": 1283,
-      "hash": "e3caac291fc2bda5717f8239094c18578bfcae14fc05b51d394cc16824dbc055",
-      "league": "NBA",
-      "market_type": "total",
-      "pick_text": "Under 248.5",
-      "created_at": "2026-04-09 16:01:45"
-    },
-    {
       "id": 1284,
       "hash": "ccd5e12228dee44a6d43e8759ddef69491ac3c645b0dae01fa56a3e002a08df2",
       "league": "NBA",
@@ -106,6 +98,14 @@
       "market_type": "spread",
       "pick_text": "Florida +1.5",
       "created_at": "2026-04-09 20:01:43"
+    },
+    {
+      "id": 1295,
+      "hash": "f5a9c050179a27ab802d47c6d5ae0854016bc2e72ea1fd8328b46591e1e9d50e",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-04-09 21:01:50"
     }
   ]
 }
