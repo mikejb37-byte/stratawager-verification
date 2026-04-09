@@ -1,16 +1,8 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T18:02:09.272302-04:00",
+  "generated_at": "2026-04-09T18:32:03.914016-04:00",
   "pick_count": 14,
   "picks": [
-    {
-      "id": 1265,
-      "hash": "f32d530e7b38d4df67fdf7050c0077852c68ed8a809ab3a8af43c99a04254dba",
-      "league": "NHL",
-      "market_type": "total",
-      "pick_text": "Under 6.5",
-      "created_at": "2026-04-09 11:31:29"
-    },
     {
       "id": 1269,
       "hash": "e99bccfc09878083736e8d174cfe904855972405d081c833dfa23df2319fc03e",
@@ -66,6 +58,14 @@
       "market_type": "spread",
       "pick_text": "Tampa Bay Lightning -1.5",
       "created_at": "2026-04-09 15:01:38"
+    },
+    {
+      "id": 1283,
+      "hash": "e3caac291fc2bda5717f8239094c18578bfcae14fc05b51d394cc16824dbc055",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 248.5",
+      "created_at": "2026-04-09 16:01:45"
     },
     {
       "id": 1284,
