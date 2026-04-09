@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T12:02:05.703563-04:00",
-  "pick_count": 11,
+  "generated_at": "2026-04-09T12:31:59.026225-04:00",
+  "pick_count": 12,
   "picks": [
     {
       "id": 1265,
@@ -90,6 +90,14 @@
       "market_type": "spread",
       "pick_text": "Tampa Bay Lightning -1.5",
       "created_at": "2026-04-09 15:01:38"
+    },
+    {
+      "id": 1284,
+      "hash": "ccd5e12228dee44a6d43e8759ddef69491ac3c645b0dae01fa56a3e002a08df2",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Over 224.5",
+      "created_at": "2026-04-09 16:01:45"
     }
   ]
 }
