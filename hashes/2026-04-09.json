@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T08:25:01.343571-04:00",
+  "pick_count": 8,
+  "picks": [
+    {
+      "id": 1265,
+      "hash": "f32d530e7b38d4df67fdf7050c0077852c68ed8a809ab3a8af43c99a04254dba",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-09 11:31:29"
+    },
+    {
+      "id": 1266,
+      "hash": "02bf37de441a5645fbddb1c61181a103d82d549125437e49e79a11aede8af5a8",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Colorado Avalanche +1.5",
+      "created_at": "2026-04-09 11:31:29"
+    },
+    {
+      "id": 1267,
+      "hash": "1a48228fdc8e17a5c1c3162a6c5240d0aa15dd61410bc4c1536208e9ce4e36b7",
+      "league": "NHL",
+      "market_type": "moneyline",
+      "pick_text": "St Louis Blues ML",
+      "created_at": "2026-04-09 11:31:29"
+    },
+    {
+      "id": 1268,
+      "hash": "e2bfdf4ebd8ffa561c5acbe882b59fcc382749201f719bdd0f2621ee011d9ed3",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jaime Jaquez Jr Under 4.5 Assists",
+      "created_at": "2026-04-09 11:38:58"
+    },
+    {
+      "id": 1269,
+      "hash": "e99bccfc09878083736e8d174cfe904855972405d081c833dfa23df2319fc03e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jaime Jaquez Jr Over 4.5 Rebounds",
+      "created_at": "2026-04-09 11:38:58"
+    },
+    {
+      "id": 1270,
+      "hash": "e4e838d75a359e24c6c4ee5c6e3839a3c785392e78a0fbde45bc5527efe4d62d",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Karl-Anthony Towns Under 2.5 Assists",
+      "created_at": "2026-04-09 11:38:58"
+    },
+    {
+      "id": 1271,
+      "hash": "fc949cd3fce5283bee5a589a19c181916eadc4ade1b7f7e14e87fe1e830242f7",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Karl-Anthony Towns Under 2.5 Assists + Jaime Jaquez Jr Over 4.5 Rebounds",
+      "created_at": "2026-04-09 11:39:03"
+    },
+    {
+      "id": 1272,
+      "hash": "f5fb23e46bf493b7fcb1c3d759d28410888ebbf7cceb4f4bb90e9ca964168779",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Colorado Avalanche +1.5 + Jaime Jaquez Jr Under 4.5 Assists",
+      "created_at": "2026-04-09 11:39:07"
+    }
+  ]
+}
