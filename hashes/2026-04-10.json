@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T11:33:16.869659-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-04-10T12:00:25.659154-04:00",
+  "pick_count": 5,
   "picks": [
     {
       "id": 1298,
@@ -17,6 +17,14 @@
       "league": "NBA",
       "market_type": "player_prop",
       "pick_text": "C.J. McCollum Over 4.5 Assists",
+      "created_at": "2026-04-10 11:35:57"
+    },
+    {
+      "id": 1303,
+      "hash": "d1b3a483365056f2e5c00a742bf5859a695be099c4af8195ad18df32472e01fa",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Bennedict Mathurin Over 14.5 Points",
       "created_at": "2026-04-10 11:35:57"
     },
     {
