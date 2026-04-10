@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T09:02:52.136999-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-10T09:32:47.214353-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 1298,
@@ -9,14 +9,6 @@
       "league": "NBA",
       "market_type": "spread",
       "pick_text": "Portland Trail Blazers -2.0",
-      "created_at": "2026-04-10 11:31:08"
-    },
-    {
-      "id": 1299,
-      "hash": "d864e2ecdc068e6be870def150deec1ba98b22f4f3973315fd8e5fb190d3eecd",
-      "league": "MLB",
-      "market_type": "moneyline",
-      "pick_text": "Rockies ML",
       "created_at": "2026-04-10 11:31:08"
     },
     {
