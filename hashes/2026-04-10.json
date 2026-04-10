@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T12:00:25.659154-04:00",
+  "generated_at": "2026-04-10T12:32:55.956783-04:00",
   "pick_count": 5,
   "picks": [
     {
@@ -20,14 +20,6 @@
       "created_at": "2026-04-10 11:35:57"
     },
     {
-      "id": 1303,
-      "hash": "d1b3a483365056f2e5c00a742bf5859a695be099c4af8195ad18df32472e01fa",
-      "league": "NBA",
-      "market_type": "player_prop",
-      "pick_text": "Bennedict Mathurin Over 14.5 Points",
-      "created_at": "2026-04-10 11:35:57"
-    },
-    {
       "id": 1305,
       "hash": "6bd290b3093a3cc2078414b3501fe446a2a507ecf4f399557107a7300d354f37",
       "league": "PARLAY",
@@ -42,6 +34,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Bennedict Mathurin Over 14.5 Points + Rockies ML",
       "created_at": "2026-04-10 11:36:07"
+    },
+    {
+      "id": 1319,
+      "hash": "7bd2846d00d326e61526501b8e568db7eab476c51aee5f048a763435d98d1713",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 8.5",
+      "created_at": "2026-04-10 15:31:30"
     }
   ]
 }
