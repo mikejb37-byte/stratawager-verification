@@ -1,30 +1,14 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T12:32:31.345934-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-11T13:01:04.460838-04:00",
+  "pick_count": 5,
   "picks": [
-    {
-      "id": 1327,
-      "hash": "0cfa8042ed3f2dd2525070855dac42d029bc2caccc71890950d5caa7939eb966",
-      "league": "MLB",
-      "market_type": "total",
-      "pick_text": "Under 7.5",
-      "created_at": "2026-04-11 11:31:17"
-    },
     {
       "id": 1328,
       "hash": "f3c7a921e1220501fcaec2dfe42e9ac63dc4db1ada7bc5e072ad49e23dc74f94",
       "league": "MLB",
       "market_type": "spread",
       "pick_text": "New York Mets -1.5",
-      "created_at": "2026-04-11 11:31:17"
-    },
-    {
-      "id": 1329,
-      "hash": "da5fb22f2286b6a14b1724367b610031392991d9bcb7375af22750ceaf5c83d7",
-      "league": "NHL",
-      "market_type": "spread",
-      "pick_text": "Minnesota Wild -1.5",
       "created_at": "2026-04-11 11:31:17"
     },
     {
