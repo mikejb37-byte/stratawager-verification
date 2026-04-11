@@ -1,24 +1,8 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T14:31:28.754571-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-04-11T15:01:24.540068-04:00",
+  "pick_count": 2,
   "picks": [
-    {
-      "id": 1328,
-      "hash": "f3c7a921e1220501fcaec2dfe42e9ac63dc4db1ada7bc5e072ad49e23dc74f94",
-      "league": "MLB",
-      "market_type": "spread",
-      "pick_text": "New York Mets -1.5",
-      "created_at": "2026-04-11 11:31:17"
-    },
-    {
-      "id": 1330,
-      "hash": "2cc963bedfa15723cdc619d4c7572b8810f7248d6886cf3015cbc006e353ea60",
-      "league": "NHL",
-      "market_type": "total",
-      "pick_text": "Over 6.5",
-      "created_at": "2026-04-11 11:31:17"
-    },
     {
       "id": 1333,
       "hash": "2dceabce75299265f6dbbe71126b74a69c0f0cc49c5089c74f771aafc896ef92",
