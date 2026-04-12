@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T08:25:02.338873-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 1355,
+      "hash": "19307c0a2ce5b909dc0edf71e5ae887eb3dbf76640bac6d0c9c8da2cadcee8f3",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Cleveland Cavaliers -10.5",
+      "created_at": "2026-04-12 11:31:32"
+    },
+    {
+      "id": 1357,
+      "hash": "624f1c913167312552207dfb6fed5a91b8514d8296db6c830bd14a3e7fbfeb45",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-04-12 11:31:32"
+    },
+    {
+      "id": 1358,
+      "hash": "df8b0739ed94787505cda77efd3ced51da0a0315d1e5d50ca1f36a10db0bc4e4",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Cleveland Cavaliers -10.5 + Ottawa Senators @ New Jersey Devils Over 6.5",
+      "created_at": "2026-04-12 11:39:35"
+    }
+  ]
+}
