@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T09:32:29.506368-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-04-13T10:03:16.290325-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 1377,
@@ -20,12 +20,36 @@
       "created_at": "2026-04-13 11:31:15"
     },
     {
+      "id": 1386,
+      "hash": "3b5482401a8be9324f37f42fdbc0ff60d12cc82453ee97c46757d921dde7d3ae",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Nashville Predators -1.5",
+      "created_at": "2026-04-13 13:01:28"
+    },
+    {
+      "id": 1387,
+      "hash": "8fe3c00c7736a876e3f6ab448e8247c56f7a6641b6fe0f6dbbfc64a3bdb81098",
+      "league": "NHL",
+      "market_type": "moneyline",
+      "pick_text": "Chicago Blackhawks ML",
+      "created_at": "2026-04-13 13:01:28"
+    },
+    {
       "id": 1390,
       "hash": "ed0b028e30a6e6fc0a539bbdb9967773f700a289483e617f9bbfe34b5e4287d9",
       "league": "NHL",
       "market_type": "spread",
       "pick_text": "St. Louis Blues -1.5",
       "created_at": "2026-04-13 13:31:11"
+    },
+    {
+      "id": 1393,
+      "hash": "fe916366eb7035a2753003a1a9a8e227b16c81f067a50d6ddfa1d3ba4286538a",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Los Angeles Kings @ Seattle Kraken Under 5.5 + St. Louis Blues -1.5",
+      "created_at": "2026-04-13 14:01:46"
     }
   ]
 }
