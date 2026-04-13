@@ -1,8 +1,16 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T09:02:41.404150-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-04-13T09:32:29.506368-04:00",
+  "pick_count": 3,
   "picks": [
+    {
+      "id": 1377,
+      "hash": "8f3fb582b61d728a84fe2417652bf98b2af5a18068c1c64e6466ae193c2ed19b",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 8.5",
+      "created_at": "2026-04-13 11:31:15"
+    },
     {
       "id": 1380,
       "hash": "55260a9d9fe6e00d99ff102a937c994355b4b43d08e9482d6d0693d6d01e4a30",
@@ -10,6 +18,14 @@
       "market_type": "total",
       "pick_text": "Under 5.5",
       "created_at": "2026-04-13 11:31:15"
+    },
+    {
+      "id": 1390,
+      "hash": "ed0b028e30a6e6fc0a539bbdb9967773f700a289483e617f9bbfe34b5e4287d9",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "St. Louis Blues -1.5",
+      "created_at": "2026-04-13 13:31:11"
     }
   ]
 }
