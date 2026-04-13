@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T10:32:31.554915-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-13T11:00:07.012395-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 1377,
@@ -34,14 +34,6 @@
       "market_type": "moneyline",
       "pick_text": "Chicago Blackhawks ML",
       "created_at": "2026-04-13 13:01:28"
-    },
-    {
-      "id": 1390,
-      "hash": "ed0b028e30a6e6fc0a539bbdb9967773f700a289483e617f9bbfe34b5e4287d9",
-      "league": "NHL",
-      "market_type": "spread",
-      "pick_text": "St. Louis Blues +1.5",
-      "created_at": "2026-04-13 13:31:11"
     },
     {
       "id": 1393,
