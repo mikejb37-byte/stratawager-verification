@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T08:25:01.633791-04:00",
+  "pick_count": 8,
+  "picks": [
+    {
+      "id": 1404,
+      "hash": "630a966f67ca7b3b322558108901d4f1445ff55a39949f8e2e82f879590c463c",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Cleveland Guardians -1.5",
+      "created_at": "2026-04-14 11:31:52"
+    },
+    {
+      "id": 1406,
+      "hash": "c429cb9857f3e7099d88a1432d91ac094957451d0285d12417dec8dbb170e5af",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-14 11:31:52"
+    },
+    {
+      "id": 1407,
+      "hash": "be2142cfabb3c40fd59582546a93d1d7e48dbcdd2a9f2161a77ac60956e06d92",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Anaheim Ducks -1.5",
+      "created_at": "2026-04-14 11:31:52"
+    },
+    {
+      "id": 1408,
+      "hash": "681f0e620b352d0d5631597a197b91fa84009996cf83d4b4186706f38e2a07b9",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Dillon Brooks Over 18.5 Points",
+      "created_at": "2026-04-14 11:39:25"
+    },
+    {
+      "id": 1409,
+      "hash": "a37a9c5ae9a2666e200f378d0a01be94923bbb12fbdd60a404e543921e60a144",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Tyler Herro Over 21.5 Points",
+      "created_at": "2026-04-14 11:39:25"
+    },
+    {
+      "id": 1410,
+      "hash": "419c60f22cbf7b9df234ce0fdf7ade897384157cd68d87c1d3d0253e4f1e677a",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Norman Powell Over 17.5 Points",
+      "created_at": "2026-04-14 11:39:25"
+    },
+    {
+      "id": 1411,
+      "hash": "7e40219414a82b5e53b0d8efd27de6595d9912a5d0b4bf2e4f8052e2a9eaf7fd",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Cleveland Guardians -1.5 + Anaheim Ducks -1.5",
+      "created_at": "2026-04-14 11:39:31"
+    },
+    {
+      "id": 1412,
+      "hash": "977600db8735617b6b2ae16f269f1d6e69dff18ab5beab3816969a72cfef82e0",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Dillon Brooks Over 18.5 Points + Norman Powell Over 17.5 Points",
+      "created_at": "2026-04-14 11:39:34"
+    }
+  ]
+}
