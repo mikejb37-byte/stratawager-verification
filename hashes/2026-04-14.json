@@ -1,16 +1,8 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T16:30:10.538130-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-04-14T17:00:16.757118-04:00",
+  "pick_count": 8,
   "picks": [
-    {
-      "id": 1401,
-      "hash": "023e48a687f5766fe564efda5cd7c64a59d2b49f49dae0a626cde934e14df7dd",
-      "league": "NBA",
-      "market_type": "moneyline",
-      "pick_text": "Miami Heat +188",
-      "created_at": "2026-04-14 11:31:52"
-    },
     {
       "id": 1406,
       "hash": "c429cb9857f3e7099d88a1432d91ac094957451d0285d12417dec8dbb170e5af",
