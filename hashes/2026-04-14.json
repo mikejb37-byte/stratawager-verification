@@ -1,22 +1,22 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T09:32:57.468590-04:00",
+  "generated_at": "2026-04-14T10:01:43.399605-04:00",
   "pick_count": 9,
   "picks": [
+    {
+      "id": 1404,
+      "hash": "630a966f67ca7b3b322558108901d4f1445ff55a39949f8e2e82f879590c463c",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Cleveland Guardians -1.5",
+      "created_at": "2026-04-14 11:31:52"
+    },
     {
       "id": 1406,
       "hash": "c429cb9857f3e7099d88a1432d91ac094957451d0285d12417dec8dbb170e5af",
       "league": "NHL",
       "market_type": "total",
       "pick_text": "Under 6.5",
-      "created_at": "2026-04-14 11:31:52"
-    },
-    {
-      "id": 1407,
-      "hash": "be2142cfabb3c40fd59582546a93d1d7e48dbcdd2a9f2161a77ac60956e06d92",
-      "league": "NHL",
-      "market_type": "spread",
-      "pick_text": "Anaheim Ducks -1.5",
       "created_at": "2026-04-14 11:31:52"
     },
     {
