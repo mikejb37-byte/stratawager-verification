@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T12:30:10.187384-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-15T13:00:08.632062-04:00",
+  "pick_count": 8,
   "picks": [
     {
       "id": 1428,
@@ -9,6 +9,14 @@
       "league": "NBA",
       "market_type": "spread",
       "pick_text": "Golden State Warriors +5.5",
+      "created_at": "2026-04-15 11:31:31"
+    },
+    {
+      "id": 1430,
+      "hash": "0945e246ed65f404f30a1ddbd8879b97721f8a55239900d43b01dab47b02ae3f",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 9.0",
       "created_at": "2026-04-15 11:31:31"
     },
     {
