@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T08:25:01.973176-04:00",
+  "pick_count": 7,
+  "picks": [
+    {
+      "id": 1428,
+      "hash": "ebf59fbb61734c61c9b9cb0f6683ff8b4941690b03990436f33a0eed45f89b42",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Golden State Warriors +5.5",
+      "created_at": "2026-04-15 11:31:31"
+    },
+    {
+      "id": 1430,
+      "hash": "0945e246ed65f404f30a1ddbd8879b97721f8a55239900d43b01dab47b02ae3f",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.5",
+      "created_at": "2026-04-15 11:31:31"
+    },
+    {
+      "id": 1433,
+      "hash": "da08aee2b3ca0083842126e25d71bbe89bf9c8d6cc035983895592835acc2689",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Desmond Bane Over 19.5 Points",
+      "created_at": "2026-04-15 11:38:50"
+    },
+    {
+      "id": 1434,
+      "hash": "10461325105edbf9e4e6773230bd34def139d12c3f7119aa9997d02212baf50e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Kristaps Porzingis Over 6.5 Rebounds",
+      "created_at": "2026-04-15 11:38:50"
+    },
+    {
+      "id": 1435,
+      "hash": "c2892812ad4ce0c86e895b0b62ad4bf29a04731e0f80eb9eb68a2fc74c62ef2d",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Bennedict Mathurin Over 11.5 Points",
+      "created_at": "2026-04-15 11:38:50"
+    },
+    {
+      "id": 1436,
+      "hash": "6b561ffed76ca902f53062f0d7d7bcd5fbeb8324284075ccc5f5e2ce597c0df9",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Kristaps Porzingis Over 6.5 Rebounds + Desmond Bane Over 19.5 Points",
+      "created_at": "2026-04-15 11:38:56"
+    },
+    {
+      "id": 1437,
+      "hash": "535726d029edf8618341c2e0e7387cbc5bbf57868e34d684bdd39d14e7b0d705",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Bennedict Mathurin Over 11.5 Points + Cleveland Guardians @ St. Louis Cardinals Over 8.5",
+      "created_at": "2026-04-15 11:38:59"
+    }
+  ]
+}
