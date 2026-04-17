@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T12:03:06.081829-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-17T12:31:42.274010-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 1474,
@@ -26,6 +26,14 @@
       "market_type": "player_prop",
       "pick_text": "Al Horford Under 8.5 Points",
       "created_at": "2026-04-17 13:01:29"
+    },
+    {
+      "id": 1483,
+      "hash": "fa061fa3053d94f6d4db611a3f9e222693fd638eb8d440864dc33f1e8ed520f2",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.5",
+      "created_at": "2026-04-17 13:04:32"
     },
     {
       "id": 1484,
