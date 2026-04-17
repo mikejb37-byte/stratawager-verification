@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T11:00:25.685990-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-17T11:31:36.604719-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 1474,
@@ -28,6 +28,14 @@
       "created_at": "2026-04-17 13:01:29"
     },
     {
+      "id": 1483,
+      "hash": "fa061fa3053d94f6d4db611a3f9e222693fd638eb8d440864dc33f1e8ed520f2",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.5",
+      "created_at": "2026-04-17 13:04:32"
+    },
+    {
       "id": 1484,
       "hash": "7221fe93a1d2a3bff70d8d0c4495a466f99bd017fddb1d35b43b83e4234c9fdb",
       "league": "PARLAY",
@@ -36,11 +44,19 @@
       "created_at": "2026-04-17 13:10:00"
     },
     {
+      "id": 1487,
+      "hash": "912a37ed692ce1f4074a1cfa8d5ca35dec5b14c173534da68f827e4431c4fdd7",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 9.5",
+      "created_at": "2026-04-17 13:31:18"
+    },
+    {
       "id": 1489,
       "hash": "236c085a0bab177d138f6e5c4beebf00926e6a4fceccc7dec6d5358c4e2b8fe7",
       "league": "MLB",
       "market_type": "total",
-      "pick_text": "Under 7.5",
+      "pick_text": "Under 8.0",
       "created_at": "2026-04-17 13:32:47"
     },
     {
