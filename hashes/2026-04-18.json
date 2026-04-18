@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T08:25:01.747232-04:00",
+  "pick_count": 8,
+  "picks": [
+    {
+      "id": 1372,
+      "hash": "767c27458753dc83c19dff16c357dd08297f91dd767277ab8885355ba500f07a",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Rockets +5.5",
+      "created_at": "2026-04-13T10:40:24.402758+00:00"
+    },
+    {
+      "id": 1400,
+      "hash": "bc6aa8e8ebb811c13ad20d3e522cd95d5cea25e60e139c20a20152651fd5fc68",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Timberwolves +6.5",
+      "created_at": "2026-04-14T10:40:20.040232+00:00"
+    },
+    {
+      "id": 1496,
+      "hash": "adbcde0efd0fe54e5fc4f9fa444c66a544ce1a4ac744395ca397385c36e0e80f",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Minnesota Timberwolves +6.5",
+      "created_at": "2026-04-18 11:31:12"
+    },
+    {
+      "id": 1500,
+      "hash": "ba69319f3b626862cf0b391184f03e71c49f97ed7d1ec5afe75583fe8f2ec1fb",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Alperen Sengun Over 19.5 Points",
+      "created_at": "2026-04-18 11:37:39"
+    },
+    {
+      "id": 1501,
+      "hash": "3ea25509103a3915135bd29b52b6388fa5331e504f94d9d6188a5d20395b0899",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Immanuel Quickley Under 11.5 Points",
+      "created_at": "2026-04-18 11:37:39"
+    },
+    {
+      "id": 1502,
+      "hash": "8b1b98236d6680dec85f7dc22d29fabe543aee7e78c3cefdc25677997010a22f",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Reed Sheppard Under 2.5 Assists",
+      "created_at": "2026-04-18 11:37:39"
+    },
+    {
+      "id": 1503,
+      "hash": "e450b5eb3fa4759f1ce9a8bfc92d0d5f637126cb71670b9bbbc2b7841bdf47de",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Immanuel Quickley Under 11.5 Points + Reed Sheppard Under 2.5 Assists",
+      "created_at": "2026-04-18 11:37:45"
+    },
+    {
+      "id": 1504,
+      "hash": "c52ecd408b2ca994fbe6fe708db478789e1e9bb0fa0ead3754a6324d5eb466c5",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Minnesota Timberwolves +6.5 + Rockets +5.5",
+      "created_at": "2026-04-18 11:37:48"
+    }
+  ]
+}
