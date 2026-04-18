@@ -1,24 +1,8 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T16:00:08.317826-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-18T17:00:11.887924-04:00",
+  "pick_count": 5,
   "picks": [
-    {
-      "id": 1400,
-      "hash": "bc6aa8e8ebb811c13ad20d3e522cd95d5cea25e60e139c20a20152651fd5fc68",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Timberwolves +6.5",
-      "created_at": "2026-04-14T10:40:20.040232+00:00"
-    },
-    {
-      "id": 1496,
-      "hash": "adbcde0efd0fe54e5fc4f9fa444c66a544ce1a4ac744395ca397385c36e0e80f",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Minnesota Timberwolves +6.5",
-      "created_at": "2026-04-18 11:31:12"
-    },
     {
       "id": 1500,
       "hash": "ba69319f3b626862cf0b391184f03e71c49f97ed7d1ec5afe75583fe8f2ec1fb",
