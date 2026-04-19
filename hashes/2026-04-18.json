@@ -1,8 +1,16 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T19:00:09.586734-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-18T20:00:07.278729-04:00",
+  "pick_count": 8,
   "picks": [
+    {
+      "id": 1372,
+      "hash": "767c27458753dc83c19dff16c357dd08297f91dd767277ab8885355ba500f07a",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Houston Rockets -2.5",
+      "created_at": "2026-04-13T10:40:24.402758+00:00"
+    },
     {
       "id": 1400,
       "hash": "bc6aa8e8ebb811c13ad20d3e522cd95d5cea25e60e139c20a20152651fd5fc68",
