@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "generated_at": "2026-04-19T14:01:29.464535-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-19T15:01:30.160112-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 1465,
@@ -66,6 +66,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Mark Williams Over 6.5 Rebounds + Los Angeles Kings @ Colorado Avalanche Under 5.5",
       "created_at": "2026-04-19 11:35:16"
+    },
+    {
+      "id": 1533,
+      "hash": "d435446b8d0fe6d3c7da0116297433fc3cde97f96c8e8e179c62c1f8b0da124c",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Colorado Rockies +1.5",
+      "created_at": "2026-04-19 18:01:06"
     }
   ]
 }
