@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T08:25:02.112351-04:00",
+  "pick_count": 8,
+  "picks": [
+    {
+      "id": 1538,
+      "hash": "9d6e971d26cf6b9cfad1190c8fba1cfdbc7aeb8325e9975f9ece4b2a2c576c1a",
+      "league": "NBA",
+      "market_type": "futures_outright",
+      "pick_text": "Denver Nuggets \u2014 NBA Championship (NBA)",
+      "created_at": "2026-04-20T10:45:18.702716+00:00"
+    },
+    {
+      "id": 1539,
+      "hash": "5faf531263eafd7b8dd12a343753b057ae0e0859083d959e37a3217e19a1cb7c",
+      "league": "NFL",
+      "market_type": "futures_outright",
+      "pick_text": "Detroit Lions \u2014 Super Bowl Winner (NFL)",
+      "created_at": "2026-04-20T10:45:18.702716+00:00"
+    },
+    {
+      "id": 1544,
+      "hash": "28cb78a3c6e3a1b0ca201f50c4fb2bf4ce1524dc54e72854720ebddc49665494",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Colorado Rockies +1.5",
+      "created_at": "2026-04-20 11:31:19"
+    },
+    {
+      "id": 1546,
+      "hash": "bb95dcc1afdbfc3ea20e99120b508f909b72e3b3f0042906c268dbbf6c950bcf",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-20 11:31:19"
+    },
+    {
+      "id": 1547,
+      "hash": "d2aebcb4d2cfc0a48bd69e8563c56fb8bf0d85cce6ad70fc0272662ceee14220",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Dallas Stars -1.5",
+      "created_at": "2026-04-20 11:31:19"
+    },
+    {
+      "id": 1548,
+      "hash": "86c3bd86c7bceb2a81c6a53ce22771a64088651579293e59518b1a57a696ce9f",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jarrett Allen Over 1.5 Assists",
+      "created_at": "2026-04-20 11:34:20"
+    },
+    {
+      "id": 1549,
+      "hash": "dbf2b00e6f2f6026fab3938d0f7e628a4e6c9f899ceb182c6ad23f758de343c4",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Immanuel Quickley Under 2.5 Rebounds",
+      "created_at": "2026-04-20 11:34:20"
+    },
+    {
+      "id": 1551,
+      "hash": "d69c08ce3576a633487d29d15bd4ae51d21db93324a8aafc0711d2e7ef558ec4",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Dallas Stars -1.5 + Jarrett Allen Over 1.5 Assists",
+      "created_at": "2026-04-20 11:34:26"
+    }
+  ]
+}
