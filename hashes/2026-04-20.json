@@ -1,38 +1,14 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T16:00:12.291649-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-04-20T17:00:09.890547-04:00",
+  "pick_count": 6,
   "picks": [
-    {
-      "id": 1538,
-      "hash": "9d6e971d26cf6b9cfad1190c8fba1cfdbc7aeb8325e9975f9ece4b2a2c576c1a",
-      "league": "NBA",
-      "market_type": "futures_outright",
-      "pick_text": "Denver Nuggets \u2014 NBA Championship (NBA)",
-      "created_at": "2026-04-20T10:45:18.702716+00:00"
-    },
-    {
-      "id": 1539,
-      "hash": "5faf531263eafd7b8dd12a343753b057ae0e0859083d959e37a3217e19a1cb7c",
-      "league": "NFL",
-      "market_type": "futures_outright",
-      "pick_text": "Detroit Lions \u2014 Super Bowl Winner (NFL)",
-      "created_at": "2026-04-20T10:45:18.702716+00:00"
-    },
     {
       "id": 1546,
       "hash": "bb95dcc1afdbfc3ea20e99120b508f909b72e3b3f0042906c268dbbf6c950bcf",
       "league": "NHL",
       "market_type": "total",
       "pick_text": "Under 6.5",
-      "created_at": "2026-04-20 11:31:19"
-    },
-    {
-      "id": 1547,
-      "hash": "d2aebcb4d2cfc0a48bd69e8563c56fb8bf0d85cce6ad70fc0272662ceee14220",
-      "league": "NHL",
-      "market_type": "spread",
-      "pick_text": "Dallas Stars -1.5",
       "created_at": "2026-04-20 11:31:19"
     },
     {
