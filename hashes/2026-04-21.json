@@ -1,8 +1,24 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T17:00:13.347906-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-04-21T18:00:10.624324-04:00",
+  "pick_count": 8,
   "picks": [
+    {
+      "id": 1515,
+      "hash": "46514a0aea798549f97b76c7739ec964220b3ddec46a7fe436be1477442b81df",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Houston Rockets -5.0",
+      "created_at": "2026-04-19T10:40:09.895487+00:00"
+    },
+    {
+      "id": 1572,
+      "hash": "6bfef07ba44407025016905ae7f420fb1d28a4743eec31702469a62ddfbc192a",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "San Antonio Spurs -11.5",
+      "created_at": "2026-04-21 11:31:27"
+    },
     {
       "id": 1579,
       "hash": "7e204502e5f592c6c186604322f27cc8daf2f4aa958ba17e9a159b725f4408da",
