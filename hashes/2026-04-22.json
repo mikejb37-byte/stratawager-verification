@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T16:00:13.277683-04:00",
+  "generated_at": "2026-04-22T17:00:10.436745-04:00",
   "pick_count": 8,
   "picks": [
     {
@@ -28,20 +28,20 @@
       "created_at": "2026-04-20T10:40:18.432718+00:00"
     },
     {
-      "id": 1603,
-      "hash": "8c2034c6b4764af0eb656420d8201cd39f9252a6dc25a1b5f1a2bb4d7e9a586b",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Orlando Magic +8.5",
-      "created_at": "2026-04-22 11:31:39"
-    },
-    {
       "id": 1606,
       "hash": "2e2e83bf2abed40fd4d98208f06b6cb95ee90eb1fb41a5a9f3cdd85cb39333e9",
       "league": "MLB",
       "market_type": "total",
       "pick_text": "Under 8.0",
       "created_at": "2026-04-22 11:31:39"
+    },
+    {
+      "id": 1612,
+      "hash": "bfa20f09c554756b7cec8fb4376e8b1c4a5dcb814eeb90c2eea4d6d772b6b424",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Tristan da Silva Under 6.5 Points",
+      "created_at": "2026-04-22 11:35:40"
     },
     {
       "id": 1613,
