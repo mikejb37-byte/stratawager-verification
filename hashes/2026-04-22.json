@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T18:00:11.531003-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-22T19:00:11.237558-04:00",
+  "pick_count": 8,
   "picks": [
     {
       "id": 1534,
@@ -33,6 +33,14 @@
       "league": "NBA",
       "market_type": "spread",
       "pick_text": "Orlando Magic +8.5",
+      "created_at": "2026-04-22 11:31:39"
+    },
+    {
+      "id": 1606,
+      "hash": "2e2e83bf2abed40fd4d98208f06b6cb95ee90eb1fb41a5a9f3cdd85cb39333e9",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
       "created_at": "2026-04-22 11:31:39"
     },
     {
