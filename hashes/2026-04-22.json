@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T08:25:01.950805-04:00",
+  "pick_count": 7,
+  "picks": [
+    {
+      "id": 1534,
+      "hash": "2d17d456ef394f8df455a7cd4022c44a1d23b84259ad69b25df391507bf64411",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Orlando Magic +8.5",
+      "created_at": "2026-04-20T10:40:18.432718+00:00"
+    },
+    {
+      "id": 1535,
+      "hash": "4ec0a7fc5bce60dcbd527a85e34d8bfd195fa45834dd661f6b23704fee7e1703",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 218.5",
+      "created_at": "2026-04-20T10:40:18.432718+00:00"
+    },
+    {
+      "id": 1536,
+      "hash": "50aa2a06ff6824136bfad101adeacca7e2d27dfa00227d041f0bbbd2f7a475ee",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Phoenix Suns +17.5",
+      "created_at": "2026-04-20T10:40:18.432718+00:00"
+    },
+    {
+      "id": 1603,
+      "hash": "8c2034c6b4764af0eb656420d8201cd39f9252a6dc25a1b5f1a2bb4d7e9a586b",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Orlando Magic +8.5",
+      "created_at": "2026-04-22 11:31:39"
+    },
+    {
+      "id": 1612,
+      "hash": "bfa20f09c554756b7cec8fb4376e8b1c4a5dcb814eeb90c2eea4d6d772b6b424",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Tristan da Silva Under 6.5 Points",
+      "created_at": "2026-04-22 11:35:40"
+    },
+    {
+      "id": 1613,
+      "hash": "82a629b3c7b851c5dacbff7f91eb1affe4c7da4884a38a8ea258be9c0ec0e57a",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ajay Mitchell Under 10.5 Points",
+      "created_at": "2026-04-22 11:35:40"
+    },
+    {
+      "id": 1615,
+      "hash": "2f1d99bf489d1b6ecd0b7956856ce6d44423074d5fec448251c042e1f2e0b670",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Phoenix Suns +17.5 + Orlando Magic @ Detroit Pistons Under 218.5",
+      "created_at": "2026-04-22 11:35:46"
+    }
+  ]
+}
