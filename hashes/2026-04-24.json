@@ -1,16 +1,8 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T16:01:26.312747-04:00",
-  "pick_count": 9,
+  "generated_at": "2026-04-24T17:00:08.383295-04:00",
+  "pick_count": 8,
   "picks": [
-    {
-      "id": 1598,
-      "hash": "a7ffe315ac44c3cb9422570cea0ca25c3f9d1ef1b97b68f6e6841547d6e4cd28",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "76ers +7.5",
-      "created_at": "2026-04-22T10:40:25.172939+00:00"
-    },
     {
       "id": 1599,
       "hash": "4c1243da4589ad632cfa64768714fd0eb2230010cec616c516e1658d26b3d4ae",
@@ -32,7 +24,7 @@
       "hash": "c3f1655d6bfa20e82cfd27c7448de5e1229fcdc462fbbc3dceaa27eaef01aff2",
       "league": "NBA",
       "market_type": "total",
-      "pick_text": "Over 220.5",
+      "pick_text": "Over 219.5",
       "created_at": "2026-04-22T10:40:25.172939+00:00"
     },
     {
