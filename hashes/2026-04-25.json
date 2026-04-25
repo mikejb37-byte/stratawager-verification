@@ -1,8 +1,16 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T12:02:04.901907-04:00",
-  "pick_count": 7,
+  "generated_at": "2026-04-25T13:03:34.968958-04:00",
+  "pick_count": 9,
   "picks": [
+    {
+      "id": 1624,
+      "hash": "f74613c085961a9351be6b763a29722ea4d156c3213a8e0543dc3bfc56ec4381",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Pistons +2.5",
+      "created_at": "2026-04-23T10:40:23.487273+00:00"
+    },
     {
       "id": 1626,
       "hash": "f1cff145aa4a40e370200077906cd6c250c38dbb75d7424e24ecf4a8cb94de03",
@@ -25,6 +33,14 @@
       "league": "MLB",
       "market_type": "total",
       "pick_text": "Over 7.5",
+      "created_at": "2026-04-25 11:31:28"
+    },
+    {
+      "id": 1680,
+      "hash": "43eba69748afb16e7e932675d11079b844120e6de6b9c231b6591d84d8622a7e",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 9.0",
       "created_at": "2026-04-25 11:31:28"
     },
     {
