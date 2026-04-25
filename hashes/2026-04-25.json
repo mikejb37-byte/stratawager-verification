@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T08:25:02.028459-04:00",
+  "pick_count": 5,
+  "picks": [
+    {
+      "id": 1626,
+      "hash": "f1cff145aa4a40e370200077906cd6c250c38dbb75d7424e24ecf4a8cb94de03",
+      "league": "NHL",
+      "market_type": "moneyline",
+      "pick_text": "Stars ML -132",
+      "created_at": "2026-04-23T10:40:23.487273+00:00"
+    },
+    {
+      "id": 1628,
+      "hash": "546323154eeaf48a462e229a24c0292d321298b8ba60988c3043b9b3231c6320",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Flyers -1.5",
+      "created_at": "2026-04-23T10:40:23.487273+00:00"
+    },
+    {
+      "id": 1683,
+      "hash": "6505b437d27fed7d0064347499404562c3c04d3f5004127a7eb506c24f957038",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Miles McBride Under 8.5 Points",
+      "created_at": "2026-04-25 11:35:12"
+    },
+    {
+      "id": 1684,
+      "hash": "338e0def07478cd00155201d72ae05c1e961bdeace8e92e3cfe74e4be351ff40",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Goga Bitadze Under 3.5 Points",
+      "created_at": "2026-04-25 11:35:12"
+    },
+    {
+      "id": 1686,
+      "hash": "0835d0d74bdff0f0414526aad779a85439535741d65b4038b68786fc0a468198",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Miles McBride Under 8.5 Points + Flyers -1.5",
+      "created_at": "2026-04-25 11:35:18"
+    }
+  ]
+}
