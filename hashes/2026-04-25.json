@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T11:01:34.587986-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-04-25T12:02:04.901907-04:00",
+  "pick_count": 7,
   "picks": [
     {
       "id": 1626,
@@ -26,6 +26,14 @@
       "market_type": "total",
       "pick_text": "Over 7.5",
       "created_at": "2026-04-25 11:31:28"
+    },
+    {
+      "id": 1682,
+      "hash": "e2e58efd2ef295086f323351800901d0c979aafa1fcfa21030c7a2566db7be44",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "San Francisco Giants ML",
+      "created_at": "2026-04-25 11:34:54"
     },
     {
       "id": 1683,
