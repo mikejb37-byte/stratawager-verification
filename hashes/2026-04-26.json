@@ -1,8 +1,16 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:03:08.018991-04:00",
+  "generated_at": "2026-04-26T10:01:52.216607-04:00",
   "pick_count": 6,
   "picks": [
+    {
+      "id": 1650,
+      "hash": "c413895896ec2488d7926ee3e8169094aaa876b44ce9e1270f432e94397b74ed",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Raptors +3.5",
+      "created_at": "2026-04-24T10:40:20.431292+00:00"
+    },
     {
       "id": 1651,
       "hash": "43cf9c1cff2da5482f2d77cf019cba45161f3a5b450f1d32523a623fd10f9779",
@@ -26,14 +34,6 @@
       "market_type": "spread",
       "pick_text": "Avalanche +1.5",
       "created_at": "2026-04-24T10:40:20.431292+00:00"
-    },
-    {
-      "id": 1714,
-      "hash": "f969975d36be99dd001dfb156c54dae6589a6324c1baba1640fe7f306c2bd299",
-      "league": "MLB",
-      "market_type": "total",
-      "pick_text": "Under 7.5",
-      "created_at": "2026-04-26 11:31:38"
     },
     {
       "id": 1720,
