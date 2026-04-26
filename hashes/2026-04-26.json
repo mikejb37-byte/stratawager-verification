@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T08:25:01.504030-04:00",
+  "pick_count": 6,
+  "picks": [
+    {
+      "id": 1651,
+      "hash": "43cf9c1cff2da5482f2d77cf019cba45161f3a5b450f1d32523a623fd10f9779",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 220.5",
+      "created_at": "2026-04-24T10:40:20.431292+00:00"
+    },
+    {
+      "id": 1652,
+      "hash": "b38af77cf6c387072b228ce78e08326cb9fc1792c9898bf6589ea1043373f562",
+      "league": "NHL",
+      "market_type": "moneyline",
+      "pick_text": "Bruins ML -105",
+      "created_at": "2026-04-24T10:40:20.431292+00:00"
+    },
+    {
+      "id": 1653,
+      "hash": "973e0073090ac508ee8ea3b9c9b5beebe2a5b93da9fe1aa9caded7cedc5407a5",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Avalanche +1.5",
+      "created_at": "2026-04-24T10:40:20.431292+00:00"
+    },
+    {
+      "id": 1714,
+      "hash": "f969975d36be99dd001dfb156c54dae6589a6324c1baba1640fe7f306c2bd299",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
+      "created_at": "2026-04-26 11:31:38"
+    },
+    {
+      "id": 1720,
+      "hash": "c35247f092177cf8c7883f277d2a66c17f98311f7c0753f97e4facb86443df39",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jarrett Allen Under 12.5 Points",
+      "created_at": "2026-04-26 11:35:38"
+    },
+    {
+      "id": 1722,
+      "hash": "35e8f0d2c2616648b30cbf05a985d6a92bb57f7c568404996ec968cdd83432d9",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Bruins ML -105 + Avalanche +1.5",
+      "created_at": "2026-04-26 11:37:26"
+    }
+  ]
+}
