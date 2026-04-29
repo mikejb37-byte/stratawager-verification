@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T08:25:02.131122-04:00",
+  "pick_count": 7,
+  "picks": [
+    {
+      "id": 1739,
+      "hash": "2498ab7e88e92dfa87499dde13ac1d9461a0008ec97db482ac18115740a226fa",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Toronto Raptors +8.5",
+      "created_at": "2026-04-27T10:40:19.171707+00:00"
+    },
+    {
+      "id": 1740,
+      "hash": "fff4951742f657bdad98efa8fe6bdfae6059a6f8e889685cb9d65eb12365c622",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 207.5",
+      "created_at": "2026-04-27T10:40:19.171707+00:00"
+    },
+    {
+      "id": 1787,
+      "hash": "4bfde14084bb5a35c618fd0d319506ca38bc308087422bd6ca10baf6a27cb424",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Toronto Raptors +8.5",
+      "created_at": "2026-04-29 11:31:00"
+    },
+    {
+      "id": 1789,
+      "hash": "b2d5ac86353549ff070da54113b3ff7cacdca74a1a63703ce5cb1fa8da86f299",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Anthony Black Under 9.5 Points",
+      "created_at": "2026-04-29 11:33:13"
+    },
+    {
+      "id": 1790,
+      "hash": "3a22fb08aa3175b23e8fcd1de2a3b37404951ce14cba1369cdee15139381dc78",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ausar Thompson Over 6.5 Rebounds",
+      "created_at": "2026-04-29 11:33:13"
+    },
+    {
+      "id": 1791,
+      "hash": "785424b072316039cbfee9bfd3fe8532153dc2b0ad6b99590f7730031b48a98e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Anthony Black Over 2.5 Assists",
+      "created_at": "2026-04-29 11:33:13"
+    },
+    {
+      "id": 1792,
+      "hash": "08f992a794a6c2a29d92d4445ce26f1da51b728256532ed99d2cdc67a8fe5bb3",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Houston Rockets @ Los Angeles Lakers Under 207.5 + Anthony Black Over 2.5 Assists",
+      "created_at": "2026-04-29 11:33:20"
+    }
+  ]
+}
