@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T08:25:01.556845-04:00",
+  "pick_count": 6,
+  "picks": [
+    {
+      "id": 1764,
+      "hash": "460aa2f3046c388da999f86b372d8122d8c1062537f8f32dc18a492a95780c75",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Denver Nuggets -5.5",
+      "created_at": "2026-04-28T10:40:16.671708+00:00"
+    },
+    {
+      "id": 1812,
+      "hash": "f2505d1d1e5cf4d8b64b6b8071b7ed1ab54251ae351fc229858a602b6878d537",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 6.5",
+      "created_at": "2026-04-30 11:31:28"
+    },
+    {
+      "id": 1814,
+      "hash": "6f033acdcc08cfa7f879cd426ceb4bb7d2c02d4b3dfc186f0828933a565083f9",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Gabe Vincent Over 3.5 Points",
+      "created_at": "2026-04-30 11:34:47"
+    },
+    {
+      "id": 1815,
+      "hash": "ea180772b4a8579c383fd8c268cd73fa2ff8d355c2b2ac0fc88e100e37163896",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Payton Pritchard Over 3.5 Rebounds",
+      "created_at": "2026-04-30 11:34:47"
+    },
+    {
+      "id": 1816,
+      "hash": "3a9d3f8371de035f25fbaffe4896bacc017cd73c0356e6f4cde46336679a02a9",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Mike Conley Under 3.5 Assists",
+      "created_at": "2026-04-30 11:34:47"
+    },
+    {
+      "id": 1817,
+      "hash": "73d0aaafcd73092840431812c534c399e4f3669abc34d2c51ef296c457a9441b",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Edmonton Oilers @ Anaheim Ducks Under 6.5 + Gabe Vincent Over 3.5 Points",
+      "created_at": "2026-04-30 11:34:52"
+    }
+  ]
+}
