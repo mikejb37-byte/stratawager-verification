@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T08:25:01.400519-04:00",
+  "pick_count": 5,
+  "picks": [
+    {
+      "id": 1785,
+      "hash": "171cbb1ab96ecad40e2867d98d0937a8916c9655f0f19561baa6e0b47ef92ce5",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Sabres +1.5",
+      "created_at": "2026-04-29T10:40:12.108601+00:00"
+    },
+    {
+      "id": 1786,
+      "hash": "58a16c17de333f223b66d5dd861970be0773406ce59f37ff1c056ba4d86ad65f",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-04-29T10:40:12.108601+00:00"
+    },
+    {
+      "id": 1840,
+      "hash": "7b7a2539143762a9b6b1d0d01b039e6191c853607e89960fb9de9fbe6691315b",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Duncan Robinson Under 10.5 Points",
+      "created_at": "2026-05-01 11:35:24"
+    },
+    {
+      "id": 1841,
+      "hash": "9b59ab8d7b4e570d9bb4c948850ec895fc260ec996f4341b433c1f7f8c800044",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Max Strus Under 3.5 Rebounds",
+      "created_at": "2026-05-01 11:35:24"
+    },
+    {
+      "id": 1843,
+      "hash": "76a42622bf1ada204e087e8bd1687c82ba46dd17028f60c8c59034e0da3c287c",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Max Strus Under 3.5 Rebounds + Sabres +1.5",
+      "created_at": "2026-05-01 11:37:07"
+    }
+  ]
+}
