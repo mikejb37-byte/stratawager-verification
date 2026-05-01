@@ -1,16 +1,8 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T20:00:08.901615-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-04-30T21:00:09.423930-04:00",
+  "pick_count": 7,
   "picks": [
-    {
-      "id": 1764,
-      "hash": "460aa2f3046c388da999f86b372d8122d8c1062537f8f32dc18a492a95780c75",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Denver Nuggets -6.5",
-      "created_at": "2026-04-28T10:40:16.671708+00:00"
-    },
     {
       "id": 1812,
       "hash": "f2505d1d1e5cf4d8b64b6b8071b7ed1ab54251ae351fc229858a602b6878d537",
