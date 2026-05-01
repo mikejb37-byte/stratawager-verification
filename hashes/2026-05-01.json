@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T14:02:11.480454-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-05-01T15:03:36.234381-04:00",
+  "pick_count": 9,
   "picks": [
     {
       "id": 1785,
@@ -66,6 +66,14 @@
       "market_type": "spread",
       "pick_text": "Pittsburgh Pirates -1.5",
       "created_at": "2026-05-01 14:01:43"
+    },
+    {
+      "id": 1853,
+      "hash": "0fdd7b9c9fec11992f6b1f786b96140199a4bddac56b7dac618beddf62f386a8",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-05-01 18:01:48"
     }
   ]
 }
