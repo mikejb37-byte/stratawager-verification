@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:25:02.291350-04:00",
+  "pick_count": 4,
+  "picks": [
+    {
+      "id": 1859,
+      "hash": "f3464f5c009d876a2a134aeeb840303b1d6c84ffa543c997addeb82da73a5426",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Boston Celtics -7.5",
+      "created_at": "2026-05-02 11:31:03"
+    },
+    {
+      "id": 1865,
+      "hash": "0fefaecda706bc73a9fa34d4241f05ca4968fe6a9ec7cbc641ac150f0e739d28",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Nikola Vucevic Over 6.5 Points",
+      "created_at": "2026-05-02 11:34:19"
+    },
+    {
+      "id": 1866,
+      "hash": "893475c82e4577d61fe7c269509f0410c66bead8a744ccf4b8bca8b0a3a42c70",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "VJ Edgecombe Under 5.5 Rebounds",
+      "created_at": "2026-05-02 11:34:19"
+    },
+    {
+      "id": 1867,
+      "hash": "907a6c06024a0aefc243c1275785287014e098b13bad369f20290d29f2d05aab",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Quentin Grimes Under 6.5 Points",
+      "created_at": "2026-05-02 11:34:19"
+    }
+  ]
+}
