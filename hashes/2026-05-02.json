@@ -1,8 +1,16 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T10:03:07.182231-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-05-02T11:03:06.394865-04:00",
+  "pick_count": 4,
   "picks": [
+    {
+      "id": 1859,
+      "hash": "f3464f5c009d876a2a134aeeb840303b1d6c84ffa543c997addeb82da73a5426",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Boston Celtics -8.5",
+      "created_at": "2026-05-02 11:31:03"
+    },
     {
       "id": 1865,
       "hash": "0fefaecda706bc73a9fa34d4241f05ca4968fe6a9ec7cbc641ac150f0e739d28",
