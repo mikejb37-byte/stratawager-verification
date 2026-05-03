@@ -1,8 +1,16 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T09:01:45.524601-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-05-03T10:01:47.208687-04:00",
+  "pick_count": 4,
   "picks": [
+    {
+      "id": 1888,
+      "hash": "0c4fb7213ce37265715a8ab5601903b06cc852440a323f18d55b69c03e680f65",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Cincinnati Reds ML",
+      "created_at": "2026-05-03 11:34:25"
+    },
     {
       "id": 1890,
       "hash": "db85758ce2df43c956d26d0cfa9a61c90592b70940c994f170bbaa6855082452",
