@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T09:01:46.400807-04:00",
-  "pick_count": 5,
+  "generated_at": "2026-05-04T10:00:55.739023-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 1857,
@@ -26,6 +26,14 @@
       "market_type": "futures_outright",
       "pick_text": "Kansas City Chiefs \u2014 Super Bowl Winner (NFL)",
       "created_at": "2026-05-04T10:45:17.156732+00:00"
+    },
+    {
+      "id": 1906,
+      "hash": "3f4c1a841a25ec538fb5ad008b3d5a8ca2a5182b8db0e85db6a7fb86aadba18f",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Spurs -13.5",
+      "created_at": "2026-05-04 11:31:22"
     },
     {
       "id": 1908,
