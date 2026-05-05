@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T09:03:12.043587-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-05-05T10:01:36.660312-04:00",
+  "pick_count": 7,
   "picks": [
     {
       "id": 1856,
@@ -50,6 +50,14 @@
       "market_type": "parlay",
       "pick_text": "2-Leg Parlay: Isaiah Hartenstein Under 8.5 Points + Evan Mobley Over 8.5 Rebounds",
       "created_at": "2026-05-05 11:35:59"
+    },
+    {
+      "id": 1939,
+      "hash": "ae18540b7556e4008f322eafdcbc4747211e573d689bc41e185188553f6afdf8",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Houston Astros +1.5",
+      "created_at": "2026-05-05 13:01:20"
     }
   ]
 }
