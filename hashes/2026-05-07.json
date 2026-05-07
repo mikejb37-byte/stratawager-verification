@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T16:00:11.898934-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-05-07T17:00:12.115896-04:00",
+  "pick_count": 5,
   "picks": [
     {
       "id": 1925,
@@ -10,14 +10,6 @@
       "market_type": "total",
       "pick_text": "Over 5.5",
       "created_at": "2026-05-05T10:40:16.036388+00:00"
-    },
-    {
-      "id": 1978,
-      "hash": "e3b7cd32bafb7849547242904aaf5d3436ec50fd46adaa461cf04f9a13fac9fa",
-      "league": "MLB",
-      "market_type": "spread",
-      "pick_text": "Miami Marlins -1.5",
-      "created_at": "2026-05-07 11:31:10"
     },
     {
       "id": 1981,
