@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T16:01:21.344752-04:00",
-  "pick_count": 8,
+  "generated_at": "2026-05-09T17:01:12.950426-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 1948,
@@ -12,27 +12,11 @@
       "created_at": "2026-05-06T10:40:07.574333+00:00"
     },
     {
-      "id": 2015,
-      "hash": "2d9c15ae0aefa7eb7c4ae865cf5e34605b46dc25ea6a3fc51bd2b3c041a964f7",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Los Angeles Lakers +8.5",
-      "created_at": "2026-05-09 11:31:30"
-    },
-    {
       "id": 2017,
       "hash": "6ce2a51f959f9619a943d55f29e9d8783882dfb4ff646104e9b9f30df25fe8a7",
       "league": "MLB",
       "market_type": "moneyline",
       "pick_text": "Houston Astros -156",
-      "created_at": "2026-05-09 11:31:30"
-    },
-    {
-      "id": 2018,
-      "hash": "1be23d5a690175ea4b5eaa23ea850dadbf3b57f601436fc08a3c32a119dd3e3d",
-      "league": "MLB",
-      "market_type": "total",
-      "pick_text": "Over 8.0",
       "created_at": "2026-05-09 11:31:30"
     },
     {
