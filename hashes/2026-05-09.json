@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T13:02:43.298985-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-05-09T14:01:32.569397-04:00",
+  "pick_count": 7,
   "picks": [
     {
       "id": 1948,
@@ -17,6 +17,14 @@
       "league": "MLB",
       "market_type": "moneyline",
       "pick_text": "Houston Astros -156",
+      "created_at": "2026-05-09 11:31:30"
+    },
+    {
+      "id": 2018,
+      "hash": "1be23d5a690175ea4b5eaa23ea850dadbf3b57f601436fc08a3c32a119dd3e3d",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.0",
       "created_at": "2026-05-09 11:31:30"
     },
     {
