@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:00:08.547837-04:00",
-  "pick_count": 5,
+  "generated_at": "2026-05-11T17:00:09.410596-04:00",
+  "pick_count": 4,
   "picks": [
     {
       "id": 2063,
@@ -9,14 +9,6 @@
       "league": "NBA",
       "market_type": "futures_outright",
       "pick_text": "San Antonio Spurs \u2014 NBA Championship (NBA)",
-      "created_at": "2026-05-11T10:45:21.903701+00:00"
-    },
-    {
-      "id": 2064,
-      "hash": "7b11c2cf86e889030be47000a3b5968ca6040ac6418a75158b490a2fd5da454f",
-      "league": "NFL",
-      "market_type": "futures_outright",
-      "pick_text": "Baltimore Ravens \u2014 Super Bowl Winner (NFL)",
       "created_at": "2026-05-11T10:45:21.903701+00:00"
     },
     {
