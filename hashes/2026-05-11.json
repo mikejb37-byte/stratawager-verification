@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T08:25:01.451161-04:00",
+  "pick_count": 6,
+  "picks": [
+    {
+      "id": 2063,
+      "hash": "a3d6a4926f63d0f11861c98bd2b1499819cb21cc711fa81cf6d520af892aa85c",
+      "league": "NBA",
+      "market_type": "futures_outright",
+      "pick_text": "San Antonio Spurs \u2014 NBA Championship (NBA)",
+      "created_at": "2026-05-11T10:45:21.903701+00:00"
+    },
+    {
+      "id": 2064,
+      "hash": "7b11c2cf86e889030be47000a3b5968ca6040ac6418a75158b490a2fd5da454f",
+      "league": "NFL",
+      "market_type": "futures_outright",
+      "pick_text": "Baltimore Ravens \u2014 Super Bowl Winner (NFL)",
+      "created_at": "2026-05-11T10:45:21.903701+00:00"
+    },
+    {
+      "id": 2068,
+      "hash": "4d93866b763620d9eb6d9f03efd9e4fea47a7212b5663361601c71912b0f0846",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 9.0",
+      "created_at": "2026-05-11 11:31:08"
+    },
+    {
+      "id": 2073,
+      "hash": "27bb7cb7bae7fb593494e86549b18a2b0f6903b35417fa4268611446cf3014bf",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Ajay Mitchell Under 4.5 Assists",
+      "created_at": "2026-05-11 11:33:32"
+    },
+    {
+      "id": 2074,
+      "hash": "2b0f2e2c6aba0871e0a44e0bb4226e716c7da99f7b499dba8a42cda272adc7af",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Luke Kennard Over 9.5 Points",
+      "created_at": "2026-05-11 11:33:32"
+    },
+    {
+      "id": 2076,
+      "hash": "ab76dc52ec7991a7fc41d984dace788f0510d611f4c5be04393ae4e4aa472f48",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Ajay Mitchell Under 4.5 Assists + New York Yankees @ Baltimore Orioles Over 9.0",
+      "created_at": "2026-05-11 11:34:51"
+    }
+  ]
+}
