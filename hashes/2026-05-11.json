@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T08:25:01.451161-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-05-11T09:01:28.868091-04:00",
+  "pick_count": 5,
   "picks": [
     {
       "id": 2063,
@@ -18,14 +18,6 @@
       "market_type": "futures_outright",
       "pick_text": "Baltimore Ravens \u2014 Super Bowl Winner (NFL)",
       "created_at": "2026-05-11T10:45:21.903701+00:00"
-    },
-    {
-      "id": 2068,
-      "hash": "4d93866b763620d9eb6d9f03efd9e4fea47a7212b5663361601c71912b0f0846",
-      "league": "MLB",
-      "market_type": "total",
-      "pick_text": "Over 9.0",
-      "created_at": "2026-05-11 11:31:08"
     },
     {
       "id": 2073,
