@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T08:25:01.576227-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2110,
+      "hash": "80e21774ff6904b410c1f139dc96196afc5cf91de58adac2603da097ada50f1e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Tobias Harris Under 1.5 Assists",
+      "created_at": "2026-05-13 11:34:16"
+    },
+    {
+      "id": 2111,
+      "hash": "423b938e63f4a45d071bc0971944a9e8369f7c33c5a5007660a7859aed21fdbd",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Dean Wade Over 3.5 Rebounds",
+      "created_at": "2026-05-13 11:34:16"
+    },
+    {
+      "id": 2112,
+      "hash": "1da05bf80e6884ee1a2c3d20ba6bbaabf32164a539f449d2b26b213365370d63",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jaylon Tyson Under 3.5 Points",
+      "created_at": "2026-05-13 11:34:16"
+    }
+  ]
+}
