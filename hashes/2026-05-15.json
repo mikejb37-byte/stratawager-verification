@@ -1,16 +1,8 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T08:25:02.163594-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-05-15T09:02:34.732715-04:00",
+  "pick_count": 3,
   "picks": [
-    {
-      "id": 2102,
-      "hash": "35e508ab2151811f1c14222fc2cb85dbe4b7986f1c03bcec543f056f40eccdb0",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "San Antonio Spurs -5.5",
-      "created_at": "2026-05-13T10:40:13.147605+00:00"
-    },
     {
       "id": 2134,
       "hash": "0e182f78e74839e9f0b1fc27337f4e55dedd6cc995aa14383f4ec0986c085c37",
