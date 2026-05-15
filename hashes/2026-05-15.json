@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T08:25:02.163594-04:00",
+  "pick_count": 4,
+  "picks": [
+    {
+      "id": 2102,
+      "hash": "35e508ab2151811f1c14222fc2cb85dbe4b7986f1c03bcec543f056f40eccdb0",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "San Antonio Spurs -5.5",
+      "created_at": "2026-05-13T10:40:13.147605+00:00"
+    },
+    {
+      "id": 2134,
+      "hash": "0e182f78e74839e9f0b1fc27337f4e55dedd6cc995aa14383f4ec0986c085c37",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Minnesota Twins +139",
+      "created_at": "2026-05-15 11:31:04"
+    },
+    {
+      "id": 2136,
+      "hash": "7c2a1f970003e67d7cf6bb7b86c4eca0b68571b0611e2da71c93d9f3175db32d",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jalen Duren Over 8.5 Rebounds",
+      "created_at": "2026-05-15 11:34:06"
+    },
+    {
+      "id": 2141,
+      "hash": "f881d2b31344ead71a4a405bb4401bfe8887395500ea861572ef52792f3b3bec",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Minnesota Twins +139 + Jalen Duren Over 8.5 Rebounds",
+      "created_at": "2026-05-15 11:35:20"
+    }
+  ]
+}
