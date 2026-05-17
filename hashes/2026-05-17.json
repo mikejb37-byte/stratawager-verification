@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T14:01:29.185491-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2185,
+      "hash": "c0c70dc0a34e09bc2b61c4c3ec15c7ff416fd32f3d45766d4d7c6b4c237ab434",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 10.5",
+      "created_at": "2026-05-17 16:01:01"
+    },
+    {
+      "id": 2187,
+      "hash": "13f0d4541145789e20efbf3912bdf7c60a987774c5ff39ab29d92f4dd1107bc8",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Minnesota Twins",
+      "created_at": "2026-05-17 17:01:04"
+    },
+    {
+      "id": 2190,
+      "hash": "a08b247457f36d8399e26024e757a0ceacdc3e93cdec6d0f09caae030e2ff2b9",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Minnesota Twins + Arizona Diamondbacks @ Colorado Rockies Over 10.5",
+      "created_at": "2026-05-17 18:01:26"
+    }
+  ]
+}
