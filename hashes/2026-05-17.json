@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T16:00:08.352737-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-05-17T17:00:08.284046-04:00",
+  "pick_count": 3,
   "picks": [
     {
       "id": 2184,
@@ -18,14 +18,6 @@
       "market_type": "total",
       "pick_text": "Over 10.5",
       "created_at": "2026-05-17 16:01:01"
-    },
-    {
-      "id": 2187,
-      "hash": "13f0d4541145789e20efbf3912bdf7c60a987774c5ff39ab29d92f4dd1107bc8",
-      "league": "MLB",
-      "market_type": "moneyline",
-      "pick_text": "Minnesota Twins",
-      "created_at": "2026-05-17 17:01:04"
     },
     {
       "id": 2190,
