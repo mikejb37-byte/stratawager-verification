@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T08:25:01.358301-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-05-18T09:02:05.671934-04:00",
+  "pick_count": 4,
   "picks": [
     {
       "id": 2154,
@@ -26,6 +26,14 @@
       "market_type": "player_prop",
       "pick_text": "Isaiah Hartenstein Over 8.5 Rebounds",
       "created_at": "2026-05-18 11:33:38"
+    },
+    {
+      "id": 2201,
+      "hash": "3bf2ec8097b389bc02a3757720c8b0d786fedaf9ab7a92f83fc23d30803aa593",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Luguentz Dort Over 2.5 Rebounds",
+      "created_at": "2026-05-18 13:01:08"
     }
   ]
 }
