@@ -1,16 +1,8 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T16:00:12.639462-04:00",
-  "pick_count": 6,
+  "generated_at": "2026-05-18T17:00:08.437327-04:00",
+  "pick_count": 5,
   "picks": [
-    {
-      "id": 2154,
-      "hash": "196ebe61d0d5d0a263ccb52ac2150678e03c73a67db722af92185c1d21d67aa1",
-      "league": "NBA",
-      "market_type": "spread",
-      "pick_text": "Thunder -6.5",
-      "created_at": "2026-05-16T10:40:20.066142+00:00"
-    },
     {
       "id": 2197,
       "hash": "4b26e5437d5c111eb0cac6358d6c9b7606ba55ce2e3660c70210fb5e3bd98252",
