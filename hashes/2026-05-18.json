@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T08:25:01.358301-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2154,
+      "hash": "196ebe61d0d5d0a263ccb52ac2150678e03c73a67db722af92185c1d21d67aa1",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Thunder -6.5",
+      "created_at": "2026-05-16T10:40:20.066142+00:00"
+    },
+    {
+      "id": 2197,
+      "hash": "4b26e5437d5c111eb0cac6358d6c9b7606ba55ce2e3660c70210fb5e3bd98252",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Luguentz Dort Under 0.5 Assists",
+      "created_at": "2026-05-18 11:33:38"
+    },
+    {
+      "id": 2198,
+      "hash": "21db11d780f4ff301fbbcaa5907423c1389c00ae194c1cea555f5a6c51379d54",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Isaiah Hartenstein Over 8.5 Rebounds",
+      "created_at": "2026-05-18 11:33:38"
+    }
+  ]
+}
