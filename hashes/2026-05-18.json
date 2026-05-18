@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T15:02:41.808595-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-05-18T16:00:12.639462-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 2154,
@@ -34,6 +34,22 @@
       "market_type": "player_prop",
       "pick_text": "Luguentz Dort Over 2.5 Rebounds",
       "created_at": "2026-05-18 13:01:08"
+    },
+    {
+      "id": 2209,
+      "hash": "5a993dc28b0f285dc0ea7346b33d4cd971c48654c556fcc762dd27530ede1901",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 10.0",
+      "created_at": "2026-05-18 19:01:11"
+    },
+    {
+      "id": 2210,
+      "hash": "20829c0cc7e5fb708c6e9fafd02e5eb3590e58381132b32baa12fd95f2f35608",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Luguentz Dort Under 0.5 Assists + Cincinnati Reds @ Philadelphia Phillies Over 10.0",
+      "created_at": "2026-05-18 20:00:09"
     }
   ]
 }
