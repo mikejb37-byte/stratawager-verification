@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T08:25:01.968796-04:00",
+  "pick_count": 6,
+  "picks": [
+    {
+      "id": 2152,
+      "hash": "98e083eb0225866d48860eac8ab662a4faec2f4b08b649ae4a8f93d8075808f8",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Over 6.5",
+      "created_at": "2026-05-16T10:40:20.066142+00:00"
+    },
+    {
+      "id": 2234,
+      "hash": "580cc9b4462a95c0a929b0dc2659362dd436d6775090ed98dc687d56a5ffa2e6",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Milwaukee Brewers ML",
+      "created_at": "2026-05-20 11:31:01"
+    },
+    {
+      "id": 2235,
+      "hash": "1bc9898dff066596da885bf2589afe47faa3abe6033c4ca723679c61fbf83e8c",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Alex Caruso Over 10.5 Points",
+      "created_at": "2026-05-20 11:33:00"
+    },
+    {
+      "id": 2236,
+      "hash": "e127e1a4a330b686508c09abf61753645cf8bd092632cd8541515f422a02a0a6",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Victor Wembanyama Under 13.5 Rebounds",
+      "created_at": "2026-05-20 11:33:00"
+    },
+    {
+      "id": 2237,
+      "hash": "dd5dd75b5066ff0d8d975589b6d51433521f75a85c028edb43a0d7ae0fb90938",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Devin Vassell Over 4.5 Rebounds",
+      "created_at": "2026-05-20 11:33:00"
+    },
+    {
+      "id": 2238,
+      "hash": "b12de7ddf7c59bba81a77ab020527fe2cbfd2d0b1566f9b8fa6ba82a3dab3fec",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Devin Vassell Over 4.5 Rebounds + Vegas Golden Knights @ Colorado Avalanche Over 6.5",
+      "created_at": "2026-05-20 11:33:07"
+    }
+  ]
+}
