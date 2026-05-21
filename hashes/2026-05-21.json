@@ -1,8 +1,16 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T10:02:51.597840-04:00",
-  "pick_count": 2,
+  "generated_at": "2026-05-21T11:01:32.494577-04:00",
+  "pick_count": 4,
   "picks": [
+    {
+      "id": 2252,
+      "hash": "cf9f6d73c99840f93b2b05ee8a815a6fab32196bc9950dec7fbf28336218778d",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 7.5",
+      "created_at": "2026-05-21 11:31:15"
+    },
     {
       "id": 2256,
       "hash": "e2fa0149c46ecae73e023c14a017871bb1682368b4c5a60de80ac809ef111548",
@@ -18,6 +26,14 @@
       "market_type": "player_prop",
       "pick_text": "Mikal Bridges Over 3.5 Rebounds",
       "created_at": "2026-05-21 11:33:47"
+    },
+    {
+      "id": 2263,
+      "hash": "9daaa2cd7d385d9a2de359f5d73b93fe6953b987a11f22213355b1daabfcc51e",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Mikal Bridges Over 2.5 Assists + Pittsburgh Pirates @ St. Louis Cardinals Over 7.5",
+      "created_at": "2026-05-21 15:01:29"
     }
   ]
 }
