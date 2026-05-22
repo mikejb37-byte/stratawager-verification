@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:01:25.080367-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-05-22T17:01:30.937809-04:00",
+  "pick_count": 4,
   "picks": [
     {
       "id": 2272,
@@ -26,6 +26,14 @@
       "market_type": "player_prop",
       "pick_text": "Chet Holmgren Over 8.5 Rebounds",
       "created_at": "2026-05-22 11:34:34"
+    },
+    {
+      "id": 2278,
+      "hash": "02638ac0cb67f84029a1357ddfef21b39aa9dce9a82d6cdeb558539d89567c56",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.5",
+      "created_at": "2026-05-22 14:01:19"
     }
   ]
 }
