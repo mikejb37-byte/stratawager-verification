@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T08:25:02.174581-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2313,
+      "hash": "66532df263c119b539ab096b37a9285077d973582fc92a9ff0cf34ca15bd0623",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Chet Holmgren Over 1.5 Assists",
+      "created_at": "2026-05-24 11:34:10"
+    },
+    {
+      "id": 2314,
+      "hash": "00df9271307adf6f2c1114e47b158c9a224e61a96bbb4257aac6cc7648377235",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Devin Vassell Over 2.5 Assists",
+      "created_at": "2026-05-24 11:34:10"
+    },
+    {
+      "id": 2315,
+      "hash": "0bb9799f1abc26047adc1f77a04bb20d7f9bbe64afba2a62dd8574679b327598",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jared McCain Under 2.5 Rebounds",
+      "created_at": "2026-05-24 11:34:10"
+    }
+  ]
+}
