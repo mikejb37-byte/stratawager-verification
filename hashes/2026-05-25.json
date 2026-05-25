@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T08:25:02.282065-04:00",
+  "pick_count": 2,
+  "picks": [
+    {
+      "id": 2333,
+      "hash": "7dd00fa449e7d53a24b8df420db2b973fd77e2f57fd3749cbe504b75b7483dc3",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "James Harden Over 4.5 Rebounds",
+      "created_at": "2026-05-25 11:33:05"
+    },
+    {
+      "id": 2335,
+      "hash": "7b411f50dc0b450c6b2366170607aa3837526c41078f6353fd554d6e6c288630",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Max Strus Under 9.5 Points",
+      "created_at": "2026-05-25 11:33:05"
+    }
+  ]
+}
