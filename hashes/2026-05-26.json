@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T12:01:31.327560-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-05-26T13:01:32.416587-04:00",
+  "pick_count": 2,
   "picks": [
     {
       "id": 2353,
@@ -10,6 +10,14 @@
       "market_type": "player_prop",
       "pick_text": "Keldon Johnson Under 2.5 Rebounds",
       "created_at": "2026-05-26 11:34:22"
+    },
+    {
+      "id": 2362,
+      "hash": "dedba52750949c1ace0483028f32955dd414cd9398334383afd4b01aaf87fdf8",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Keldon Johnson Under 2.5 Rebounds + Philadelphia Phillies @ San Diego Padres Under 7.5",
+      "created_at": "2026-05-26 17:01:29"
     }
   ]
 }
