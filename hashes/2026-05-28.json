@@ -1,0 +1,47 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T08:25:01.916210-04:00",
+  "pick_count": 5,
+  "picks": [
+    {
+      "id": 2382,
+      "hash": "b086b59be1c1021e18842fadb471529e24e3ab06c806de613f6581bdaf512b89",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.0",
+      "created_at": "2026-05-28 11:31:02"
+    },
+    {
+      "id": 2385,
+      "hash": "e27d0d5e6afbc7c914ee76d56bb45b14cfb1cfa8a54161a9e463390eef4f2fca",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jared McCain Under 2.5 Rebounds",
+      "created_at": "2026-05-28 11:32:05"
+    },
+    {
+      "id": 2386,
+      "hash": "50dee877db48f7cbb1eff623eb75648f916172b0457638d497f05c0b47b10d78",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Chet Holmgren Over 14.5 Points",
+      "created_at": "2026-05-28 11:32:05"
+    },
+    {
+      "id": 2387,
+      "hash": "db7cc67c02143ad82059a2f5a6278511e5d3b5908506c00e55f07490cd3c8d3e",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Devin Vassell Over 2.5 Assists",
+      "created_at": "2026-05-28 11:32:05"
+    },
+    {
+      "id": 2388,
+      "hash": "c3d887e78e8fa766ff107cefbe9ccc5224c05fb6571769c8ef3264c2d0438e95",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Jared McCain Under 2.5 Rebounds + Atlanta Braves @ Boston Red Sox Under 7.0",
+      "created_at": "2026-05-28 11:32:11"
+    }
+  ]
+}
