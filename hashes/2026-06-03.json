@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T08:25:02.205597-04:00",
+  "pick_count": 4,
+  "picks": [
+    {
+      "id": 2365,
+      "hash": "bbec9c2f96ab293a9bb5903b61837f107897868ed4f6448fdc97160ca9df1f7d",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Over 218.5",
+      "created_at": "2026-05-27T10:40:20.736365+00:00"
+    },
+    {
+      "id": 2367,
+      "hash": "2ee387590285dce67b8d7a8be5913b3bd7dd7e88d1622c57f313fc78e2ab4083",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Spurs -4.5",
+      "created_at": "2026-05-27T10:40:20.736365+00:00"
+    },
+    {
+      "id": 2467,
+      "hash": "5046fdce367829fd324883f19c2c43bafa544e96ba8661fcddb4619e3667c573",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 9.0",
+      "created_at": "2026-06-03 11:31:04"
+    },
+    {
+      "id": 2472,
+      "hash": "5d122ce69bcf87367f49087a23fdc2a9706828a76c6307061f63ec50e2b708ea",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Spurs -4.5 + Los Angeles Dodgers @ Arizona Diamondbacks Over 9.0",
+      "created_at": "2026-06-03 11:34:13"
+    }
+  ]
+}
