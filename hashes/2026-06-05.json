@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T08:25:02.021034-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2499,
+      "hash": "decc2998e76884eca11c2481ef155d1671fd4d6ca3fecad7316f512821e6513b",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "OG Anunoby Over 1.5 Assists",
+      "created_at": "2026-06-05 11:32:53"
+    },
+    {
+      "id": 2500,
+      "hash": "4b3f97b0c310eec317012e6ec5a6bbb14cdb39ef9363354cfe601b6444ef4d48",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Stephon Castle Under 4.5 Rebounds",
+      "created_at": "2026-06-05 11:32:53"
+    },
+    {
+      "id": 2501,
+      "hash": "95fcba44856925dac5a765c923877e4a23b10be72e37cf62d7f1e6ee089cff34",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Miles McBride Over 1.5 Assists",
+      "created_at": "2026-06-05 11:32:53"
+    }
+  ]
+}
