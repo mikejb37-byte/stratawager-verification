@@ -1,0 +1,23 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T08:25:01.313160-04:00",
+  "pick_count": 2,
+  "picks": [
+    {
+      "id": 2540,
+      "hash": "413ea34347918be6a9722bf5779271bcf5939a70f32dd62a48063831348059a0",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Jose Alvarado Over 1.5 Assists",
+      "created_at": "2026-06-08 11:32:53"
+    },
+    {
+      "id": 2541,
+      "hash": "75eb1be696f5172cc1b2c4b3ceea3d32013015ca370ee7090832f36d7924dbde",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Miles McBride Over 1.5 Assists",
+      "created_at": "2026-06-08 11:32:53"
+    }
+  ]
+}
