@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T08:25:01.876363-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2522,
+      "hash": "ee96cebbfe3119cf77fc1b441e25bc333c56d4cfa3e9da4e62be57ccc8bbaf86",
+      "league": "NHL",
+      "market_type": "total",
+      "pick_text": "Under 5.5",
+      "created_at": "2026-06-07T10:40:15.056527+00:00"
+    },
+    {
+      "id": 2523,
+      "hash": "4d0a39ef5d1dd5e6391220ea796a65f66227400ff61b8261d1b8b123f81dbad4",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Hurricanes +1.5",
+      "created_at": "2026-06-07T10:40:15.056527+00:00"
+    },
+    {
+      "id": 2555,
+      "hash": "30331b0387add0a5cc78b3931c212c95006ec45e116974e774737035dafe4285",
+      "league": "NHL",
+      "market_type": "spread",
+      "pick_text": "Carolina Hurricanes -1.5",
+      "created_at": "2026-06-09 11:30:57"
+    }
+  ]
+}
