@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T08:25:01.734328-04:00",
+  "pick_count": 4,
+  "picks": [
+    {
+      "id": 2580,
+      "hash": "70a271fe6964cb662b3d5ad3a8d740dc3633aa11a9d0819a14eeb0bfc43f645b",
+      "league": "NBA",
+      "market_type": "spread",
+      "pick_text": "Knicks -5.5",
+      "created_at": "2026-06-11T10:40:11.638107+00:00"
+    },
+    {
+      "id": 2581,
+      "hash": "70cad68e5bc470d974031364c7659a7bae35b402276d693b060f942b6cf604e6",
+      "league": "NBA",
+      "market_type": "total",
+      "pick_text": "Under 216.5",
+      "created_at": "2026-06-11T10:40:11.638107+00:00"
+    },
+    {
+      "id": 2612,
+      "hash": "e77b9dfa663d8ba2b60ea9ca4bdb4ccf75eeafeec620db6d7f52ec5ec547bdc7",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Josh Hart Over 4.5 Assists",
+      "created_at": "2026-06-13 11:34:08"
+    },
+    {
+      "id": 2614,
+      "hash": "ebc9499dc6aff04c74395877888ee6e7bcbc4e62323c9554a3449a4626a4f619",
+      "league": "NBA",
+      "market_type": "player_prop",
+      "pick_text": "Victor Wembanyama Over 11.5 Rebounds",
+      "created_at": "2026-06-13 11:34:08"
+    }
+  ]
+}
