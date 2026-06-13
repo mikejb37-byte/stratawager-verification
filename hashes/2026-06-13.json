@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T11:01:26.773304-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-06-13T12:02:35.569110-04:00",
+  "pick_count": 6,
   "picks": [
     {
       "id": 2580,
@@ -34,6 +34,22 @@
       "market_type": "player_prop",
       "pick_text": "Victor Wembanyama Over 11.5 Rebounds",
       "created_at": "2026-06-13 11:34:08"
+    },
+    {
+      "id": 2618,
+      "hash": "004597279ec283be22aba253cd4ac6cb1b2afb12471f7d620fc8f9b2cc97193e",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Los Angeles Angels",
+      "created_at": "2026-06-13 15:01:03"
+    },
+    {
+      "id": 2622,
+      "hash": "45f715dd8228bca09cdf6cf74f89ca21fc90e49235a273dc9bff974b20016c2c",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Los Angeles Angels + New York Knicks @ San Antonio Spurs Under 216.5",
+      "created_at": "2026-06-13 16:01:28"
     }
   ]
 }
