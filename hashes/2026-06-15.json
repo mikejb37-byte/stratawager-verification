@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T19:00:11.624557-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 2650,
+      "hash": "8fb97b15321405367b2c96374009924bcbc340e266e2a52b2f0fcb6fa5ab8028",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 8.5",
+      "created_at": "2026-06-15 16:00:48"
+    },
+    {
+      "id": 2652,
+      "hash": "681d85ca19bc23aeb82e805e1b15b30e91614854c80b6a9f5ccc417879c03984",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Minnesota Twins +140",
+      "created_at": "2026-06-15 19:00:44"
+    },
+    {
+      "id": 2653,
+      "hash": "06b29650d337a19cca9749641c2c7f6e57d1545746f8c87ff62dbceb48070c28",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Minnesota Twins +140 + New York Mets @ Cincinnati Reds Under 8.5",
+      "created_at": "2026-06-15 23:00:08"
+    }
+  ]
+}
