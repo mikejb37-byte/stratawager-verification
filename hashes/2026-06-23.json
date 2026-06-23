@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T15:01:42.567249-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-06-23T16:00:13.050695-04:00",
+  "pick_count": 3,
   "picks": [
     {
       "id": 2743,
@@ -10,6 +10,22 @@
       "market_type": "spread",
       "pick_text": "Mets -1.5",
       "created_at": "2026-06-23 13:00:48"
+    },
+    {
+      "id": 2750,
+      "hash": "2044ce5732a4c355476094b4926b352b291691116c8ab46913c248fd8ff4f4ff",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.0",
+      "created_at": "2026-06-23 16:00:50"
+    },
+    {
+      "id": 2755,
+      "hash": "00366551794510223a04a83e25a0032e9c7f78842c8671b9183c7fafbf81ce45",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Mets -1.5 + Cleveland Guardians @ Chicago White Sox Under 7.0",
+      "created_at": "2026-06-23 20:00:10"
     }
   ]
 }
