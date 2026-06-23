@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T16:00:13.050695-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-06-23T17:00:13.095144-04:00",
+  "pick_count": 2,
   "picks": [
     {
       "id": 2743,
@@ -10,14 +10,6 @@
       "market_type": "spread",
       "pick_text": "Mets -1.5",
       "created_at": "2026-06-23 13:00:48"
-    },
-    {
-      "id": 2750,
-      "hash": "2044ce5732a4c355476094b4926b352b291691116c8ab46913c248fd8ff4f4ff",
-      "league": "MLB",
-      "market_type": "total",
-      "pick_text": "Under 7.0",
-      "created_at": "2026-06-23 16:00:50"
     },
     {
       "id": 2755,
