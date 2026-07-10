@@ -1,8 +1,16 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T17:00:08.974462-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-07-10T18:00:09.654366-04:00",
+  "pick_count": 2,
   "picks": [
+    {
+      "id": 2962,
+      "hash": "14b5b6ec16b5677917f9b83734eb6a607f0bccc466a497b0374bc39f3566e17f",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Cleveland Guardians -1.5",
+      "created_at": "2026-07-10 14:00:50"
+    },
     {
       "id": 2965,
       "hash": "08b856fb1e5b0c5ee02fff7647433884329a8618ae0f9d751cb5dbdb86c3eeb2",
