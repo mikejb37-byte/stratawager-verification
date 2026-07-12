@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T11:01:04.586577-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-07-12T12:00:58.863267-04:00",
+  "pick_count": 2,
   "picks": [
     {
       "id": 2978,
@@ -10,6 +10,14 @@
       "market_type": "moneyline",
       "pick_text": "Philadelphia Phillies",
       "created_at": "2026-07-12 11:30:51"
+    },
+    {
+      "id": 2982,
+      "hash": "c99304f40d6585104dd58e4029baa34419d4adfd8807c051cc880ae0db1b4043",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.0",
+      "created_at": "2026-07-12 14:00:50"
     }
   ]
 }
