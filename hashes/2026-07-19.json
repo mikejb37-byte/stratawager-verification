@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T09:01:03.647878-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-07-19T10:01:08.111141-04:00",
+  "pick_count": 3,
   "picks": [
     {
       "id": 3021,
@@ -10,6 +10,22 @@
       "market_type": "total",
       "pick_text": "Under 8.5",
       "created_at": "2026-07-19 11:30:47"
+    },
+    {
+      "id": 3023,
+      "hash": "478d026b8deb8cdeef5612a0c30f8c865ce93d6c5c5c7f59f9f142b3e9895852",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 9.0",
+      "created_at": "2026-07-19 13:00:52"
+    },
+    {
+      "id": 3026,
+      "hash": "a17355da2d23d2211fe616e35e87764cac51584de07d7111b94778d4c787208f",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Detroit Tigers @ Los Angeles Angels Under 9.0 + Los Angeles Dodgers @ New York Yankees Under 8.5",
+      "created_at": "2026-07-19 14:01:04"
     }
   ]
 }
