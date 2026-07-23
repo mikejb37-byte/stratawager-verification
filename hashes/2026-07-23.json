@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T09:01:32.667445-04:00",
+  "generated_at": "2026-07-23T10:01:41.019662-04:00",
   "pick_count": 1,
   "picks": [
     {
@@ -8,7 +8,7 @@
       "hash": "38292a210ee6bed4579c99362df402d80d3378c4e5cfc0f7269792c5c284fea4",
       "league": "MLB",
       "market_type": "spread",
-      "pick_text": "Toronto Blue Jays -1.5",
+      "pick_text": "Toronto Blue Jays +1.5",
       "created_at": "2026-07-23 11:30:38"
     }
   ]
