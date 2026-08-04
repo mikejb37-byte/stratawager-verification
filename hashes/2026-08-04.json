@@ -1,8 +1,16 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T17:00:12.247767-04:00",
-  "pick_count": 2,
+  "generated_at": "2026-08-04T18:00:15.465696-04:00",
+  "pick_count": 3,
   "picks": [
+    {
+      "id": 3208,
+      "hash": "8ff5b40acc9a381b4f588c912d0038e3caa3b4a3f85d67277e9dd57aeb6d6d0f",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Toronto Blue Jays +116",
+      "created_at": "2026-08-04 14:00:48"
+    },
     {
       "id": 3213,
       "hash": "1c5ec9149affcf0f8f172de305a56c0feaa7a188458cb0e849ffb7e54f377fe1",
