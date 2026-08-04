@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T16:00:16.194762-04:00",
+  "pick_count": 3,
+  "picks": [
+    {
+      "id": 3208,
+      "hash": "8ff5b40acc9a381b4f588c912d0038e3caa3b4a3f85d67277e9dd57aeb6d6d0f",
+      "league": "MLB",
+      "market_type": "moneyline",
+      "pick_text": "Toronto Blue Jays +116",
+      "created_at": "2026-08-04 14:00:48"
+    },
+    {
+      "id": 3213,
+      "hash": "1c5ec9149affcf0f8f172de305a56c0feaa7a188458cb0e849ffb7e54f377fe1",
+      "league": "MLB",
+      "market_type": "spread",
+      "pick_text": "Chicago Cubs +1.5",
+      "created_at": "2026-08-04 18:00:49"
+    },
+    {
+      "id": 3214,
+      "hash": "e129ff166226c74badd51173ee42f05983197c1ce1db5a47648d237b899ed0c0",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Chicago Cubs +1.5 + Toronto Blue Jays +116",
+      "created_at": "2026-08-04 20:00:12"
+    }
+  ]
+}
