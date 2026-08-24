@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T09:01:38.154973-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-08-24T10:01:08.720400-04:00",
+  "pick_count": 3,
   "picks": [
     {
       "id": 3322,
@@ -10,6 +10,22 @@
       "market_type": "total",
       "pick_text": "Under 6.5",
       "created_at": "2026-08-24 11:30:41"
+    },
+    {
+      "id": 3325,
+      "hash": "3231395653f5f8e396fedcdb89572f9893223d02171d9f01cef50f5eddc11649",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Under 7.5",
+      "created_at": "2026-08-24 13:00:49"
+    },
+    {
+      "id": 3328,
+      "hash": "814a28ea0d99a77046d69c386efaa73a95e26d81b5e2c2b71fac3b592dea0f14",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Philadelphia Phillies @ Seattle Mariners Under 6.5 + Tampa Bay Rays @ Detroit Tigers Under 7.5",
+      "created_at": "2026-08-24 14:01:05"
     }
   ]
 }
