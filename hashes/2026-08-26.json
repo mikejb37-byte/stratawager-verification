@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T15:01:01.016354-04:00",
-  "pick_count": 4,
+  "generated_at": "2026-08-26T16:00:11.913523-04:00",
+  "pick_count": 5,
   "picks": [
     {
       "id": 3341,
@@ -10,6 +10,14 @@
       "market_type": "futures_outright",
       "pick_text": "Cleveland Cavaliers \u2014 NBA Championship",
       "created_at": "2026-08-26T10:45:19.293013+00:00"
+    },
+    {
+      "id": 3347,
+      "hash": "496bdc7ad8d632d9b119183705c7947d510c4739a7b15bad4bc339cafb52417d",
+      "league": "MLB",
+      "market_type": "total",
+      "pick_text": "Over 8.5",
+      "created_at": "2026-08-26 11:30:58"
     },
     {
       "id": 3350,
