@@ -1,16 +1,8 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T16:00:13.423647-04:00",
-  "pick_count": 3,
+  "generated_at": "2026-09-08T17:01:02.946332-04:00",
+  "pick_count": 2,
   "picks": [
-    {
-      "id": 3446,
-      "hash": "3397c6319bb4b216aa567dc18f38acb05f35b255d8de2662d822fb93e3d5b861",
-      "league": "MLB",
-      "market_type": "moneyline",
-      "pick_text": "Cleveland Guardians ML",
-      "created_at": "2026-09-08 11:30:56"
-    },
     {
       "id": 3450,
       "hash": "fe5bf66603adce5ddb9eb2c7e529d55536acabf4aac1cb7ed25b40a6a8a424b0",
