@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T13:01:45.831742-04:00",
-  "pick_count": 1,
+  "generated_at": "2026-09-16T14:01:10.033776-04:00",
+  "pick_count": 2,
   "picks": [
     {
       "id": 3529,
@@ -10,6 +10,14 @@
       "market_type": "total",
       "pick_text": "Under 8.5",
       "created_at": "2026-09-16 11:30:48"
+    },
+    {
+      "id": 3539,
+      "hash": "e6cacbc7934b57d85f7f94730110984e60657f1f68ac42a58d80cc01ef72d888",
+      "league": "PARLAY",
+      "market_type": "parlay",
+      "pick_text": "2-Leg Parlay: Philadelphia Phillies @ Washington Nationals Under 8.5 + Milwaukee Brewers @ Pittsburgh Pirates Over 7.5",
+      "created_at": "2026-09-16 18:01:06"
     }
   ]
 }
